@@ -54,6 +54,8 @@ python evaluate.py --run ../reproduction/main --compare results/tabular --labels
 
 `verify_results.py`显式使用CPU；原始评估入口会在可用时自动选择CUDA。平台、依赖和设备差异可能影响数值或训练结果，核验脚本会报告与保存成绩的差异。
 
+重新出图时，动态连续帧使用实际交互步号，并将18步虚线标为静态底图下界。`results/dynamic/`中的历史图片保留了当时的标注；本文所用修订图按上述口径解释。
+
 ## 从头训练
 
 以下为保存配置对应的训练命令，输出到独立目录。从头训练的结果仍需单独检查。

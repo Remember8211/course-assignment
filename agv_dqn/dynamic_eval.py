@@ -44,7 +44,7 @@ def rollout(env, agent, seed, capture_every=None, max_frames=6):
     done = False
     t = 0
     if capture_every is not None:
-        frames.append(env.render())
+        frames.append((0, env.render()))
     info = {"success": False, "path_length": 0}
     while not done:
         action = agent.act(obs, greedy=True)
@@ -52,9 +52,9 @@ def rollout(env, agent, seed, capture_every=None, max_frames=6):
         done = term or trunc
         t += 1
         if capture_every is not None and t % capture_every == 0 and len(frames) < max_frames:
-            frames.append(env.render())
-    if capture_every is not None and len(frames) < max_frames:
-        frames.append(env.render())
+            frames.append((t, env.render()))
+    if capture_every is not None and len(frames) < max_frames and frames[-1][0] != t:
+        frames.append((t, env.render()))
     return bool(info["success"]), info["path_length"], frames
 
 
@@ -138,7 +138,7 @@ def main():
     axes[1].bar(x + w / 2, dynamic_len, w, label=f"dynamic env ({args.movers} movers)",
                 color="#fd8d3c")
     axes[1].axhline(18, color="#31a354", linestyle="--", linewidth=1.4,
-                    label="A* optimal = 18")
+                    label="Static-map lower bound = 18")
     axes[1].set_xticks(x, models)
     axes[1].set_ylabel("Mean path length (steps)")
     axes[1].set_title("(b) Efficiency under moving obstacles")
@@ -157,9 +157,9 @@ def main():
         rows_n = (n + cols - 1) // cols
         fig, axes = plt.subplots(rows_n, cols, figsize=(4.0 * cols, 4.0 * rows_n))
         axes = np.atleast_1d(axes).ravel()
-        for i, fr in enumerate(frames):
+        for i, (step, fr) in enumerate(frames):
             axes[i].imshow(fr)
-            axes[i].set_title(f"t = {i * 6}", fontsize=9)
+            axes[i].set_title(f"t = {step}", fontsize=9)
             axes[i].axis("off")
         for j in range(n, len(axes)):
             axes[j].axis("off")
