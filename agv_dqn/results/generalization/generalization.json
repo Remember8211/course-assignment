@@ -1,0 +1,7 @@
+{
+  "dqn_train_success": 1.0,
+  "dqn_unseen_success": 0.8,
+  "tab_train_success": 1.0,
+  "tab_unseen_success": 0.1,
+  "n_unseen": 10
+}

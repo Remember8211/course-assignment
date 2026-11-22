@@ -1,0 +1,12 @@
+map,seed,is_train,dqn_success,dqn_len,tab_success,tab_len,astar_len
+train,0,1,1,18,1,18,18
+unseen1,1,0,1,18,0,3,18
+unseen2,2,0,0,400,0,0,18
+unseen3,3,0,1,18,0,1,18
+unseen4,4,0,1,18,0,5,18
+unseen5,5,0,1,18,0,3,18
+unseen6,6,0,0,400,0,0,18
+unseen7,7,0,1,18,0,16,18
+unseen8,8,0,1,18,0,6,18
+unseen9,9,0,1,18,1,18,18
+unseen10,10,0,1,18,0,5,18

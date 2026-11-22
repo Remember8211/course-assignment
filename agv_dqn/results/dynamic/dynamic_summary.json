@@ -1,0 +1,26 @@
+[
+  {
+    "model": "static-trained",
+    "env": "static env",
+    "success_rate": 1.0,
+    "mean_path_length": 18.0
+  },
+  {
+    "model": "static-trained",
+    "env": "dynamic env",
+    "success_rate": 1.0,
+    "mean_path_length": 26.7
+  },
+  {
+    "model": "dynamic-trained",
+    "env": "static env",
+    "success_rate": 1.0,
+    "mean_path_length": 18.0
+  },
+  {
+    "model": "dynamic-trained",
+    "env": "dynamic env",
+    "success_rate": 1.0,
+    "mean_path_length": 18.4
+  }
+]
