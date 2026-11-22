@@ -1,0 +1,49 @@
+{
+  "episodes": 240,
+  "summary_rows_checked": 24,
+  "paired_rows_checked": 80,
+  "report_tables": 2,
+  "figures": 21,
+  "numeric_checks_passed": true,
+  "report_caveats_and_links_passed": true,
+  "protected_files": [
+    "arm_rl\\avoidance_validation_20261107\\checks.json",
+    "arm_rl\\avoidance_validation_20261107\\config.json",
+    "arm_rl\\avoidance_validation_20261107\\episodes.json",
+    "arm_rl\\avoidance_validation_20261107\\episodes_coarse.json",
+    "arm_rl\\avoidance_validation_20261107\\generation_log.json",
+    "arm_rl\\avoidance_validation_20261107\\refinement.json",
+    "arm_rl\\avoidance_validation_20261107\\tasks.json",
+    "arm_rl\\env3link.py",
+    "arm_rl\\sac.py",
+    "arm_rl\\train.py",
+    "arm_rl\\dls_baseline.py",
+    "arm_rl\\runs\\sac_s0\\model.pt",
+    "arm_rl\\runs\\sac_s1\\model.pt",
+    "paper\\论文_机械臂版_v3.docx"
+  ],
+  "changed": [],
+  "report_table_rows_checked": 24,
+  "visual_checks": [
+    "success_overview.png: counts readable without overlap",
+    "fixed_g10_sac_s1_tol0.02.png: layout, statuses and legend inspected",
+    "fixed_g05_sac_s0_tol0.08.png: layout, statuses and legend inspected"
+  ],
+  "protected_sha256": {
+    "arm_rl\\avoidance_validation_20261107\\checks.json": "6e6f1ff57ea869d64d1a10130b75be2bfc858bc4183d8ea30d256b58d1e85c6a",
+    "arm_rl\\avoidance_validation_20261107\\config.json": "ce389b7655f4293523a8f3e0c00e7ac68da1ad7d4a4d18a11f735b679a8f2254",
+    "arm_rl\\avoidance_validation_20261107\\episodes.json": "83eb6e14f6e37c72843a4724d1b9122fad619b44eeb3c5259ee57804d892f794",
+    "arm_rl\\avoidance_validation_20261107\\episodes_coarse.json": "83eb6e14f6e37c72843a4724d1b9122fad619b44eeb3c5259ee57804d892f794",
+    "arm_rl\\avoidance_validation_20261107\\generation_log.json": "cbed209d1d68550a3f98b316d2c5956900692767a626ea25944118f18699ebf2",
+    "arm_rl\\avoidance_validation_20261107\\refinement.json": "5d488c8444d432f6eded0d6aad41999f8269ff48850650c3ae58e6db96c55315",
+    "arm_rl\\avoidance_validation_20261107\\tasks.json": "dee9ba6c780f0aa73f8b44d0d97043bd90953b624006390b54d95fc4eebf5382",
+    "arm_rl\\env3link.py": "d6954705777e8de5539b2b0ef3f46ba17512f8dfd2acf337e5aec883225964ca",
+    "arm_rl\\sac.py": "c886553271a4aaa946ea822345cf777ece226ecf68f71720bc215700a1256fae",
+    "arm_rl\\train.py": "5398c104648260a800858ea6dbe3f1b9ead288cc3b6b2dfc043d9482641b8170",
+    "arm_rl\\dls_baseline.py": "fc0982aaf1944d570d1af62fd4a9123fb1639e9d076ae0d934f98fbacc15ac92",
+    "arm_rl\\runs\\sac_s0\\model.pt": "ab19a4a124ce237c8c758748507f9b7ac0436d8e7bd83831ae9bcc4cdd8b7337",
+    "arm_rl\\runs\\sac_s1\\model.pt": "afe5e4af63d1976a0ba917c3703536175abb8b3b2561d1e523b2fe275cddd5a0",
+    "paper\\论文_机械臂版_v3.docx": "1c25b48079f4e4a911717c7c051f1632af7a932d5264c7d1717fd102ce64f6f5"
+  },
+  "scope": "Only report generator and derived Markdown/CSV/PNG artifacts updated; no controller evaluation or training rerun."
+}

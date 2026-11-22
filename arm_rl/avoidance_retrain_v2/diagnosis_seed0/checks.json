@@ -1,0 +1,13 @@
+{
+  "checkpoints_match_saved_validation": 4,
+  "fine_collision_checks": {
+    "episodes": 600,
+    "missed_collisions": [],
+    "resolution": 0.0005
+  },
+  "task_hashes_and_original_artifacts_unchanged": true,
+  "seed1_seed2_not_started": true,
+  "test_controller_evaluation_not_run": true,
+  "selected_checkpoint_hash_verified": true,
+  "report_links_verified": true
+}

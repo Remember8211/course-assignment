@@ -1,0 +1,175 @@
+{
+  "completed_seed": 0,
+  "completed_steps": 300000,
+  "selected_step": 50000,
+  "training_seconds": 3111.50798869133,
+  "selected_training_sample_metrics": {
+    "A": {
+      "success": 0.16,
+      "collision": 0.0,
+      "timeout": 0.84,
+      "mean_error": 0.24734010160586284
+    },
+    "B": {
+      "success": 0.06,
+      "collision": 0.0,
+      "timeout": 0.94,
+      "mean_error": 0.646746109039817
+    },
+    "C": {
+      "success": 0.0,
+      "collision": 0.74,
+      "timeout": 0.26,
+      "mean_error": 0.4126349965126165
+    }
+  },
+  "checkpoint_metrics": [
+    {
+      "checkpoint": 50000,
+      "scenario": "A",
+      "success": 0.16,
+      "collision": 0.0,
+      "timeout": 0.84,
+      "mean_error": 0.2663291385501051,
+      "mean_path_length": 0.8773078216112294,
+      "mean_normalized_action_norm": 0.5523906868382769,
+      "mean_min_goal_error": 0.13765075254046327
+    },
+    {
+      "checkpoint": 50000,
+      "scenario": "B",
+      "success": 0.14,
+      "collision": 0.0,
+      "timeout": 0.86,
+      "mean_error": 0.5180287225226868,
+      "mean_path_length": 1.523299752791423,
+      "mean_normalized_action_norm": 0.8607152867271792,
+      "mean_min_goal_error": 0.06607057888899638
+    },
+    {
+      "checkpoint": 50000,
+      "scenario": "C",
+      "success": 0.04,
+      "collision": 0.8,
+      "timeout": 0.16,
+      "mean_error": 0.416509951806879,
+      "mean_path_length": 0.5474169210090852,
+      "mean_normalized_action_norm": 0.9111620564510376,
+      "mean_min_goal_error": 0.39733056270572187
+    },
+    {
+      "checkpoint": 100000,
+      "scenario": "A",
+      "success": 0.22,
+      "collision": 0.0,
+      "timeout": 0.78,
+      "mean_error": 0.21507467099620914,
+      "mean_path_length": 0.9851127333306771,
+      "mean_normalized_action_norm": 0.5940906684349688,
+      "mean_min_goal_error": 0.07514421475420117
+    },
+    {
+      "checkpoint": 100000,
+      "scenario": "B",
+      "success": 0.4,
+      "collision": 0.0,
+      "timeout": 0.6,
+      "mean_error": 0.26747719627493644,
+      "mean_path_length": 0.8406422471483406,
+      "mean_normalized_action_norm": 0.7504387546482901,
+      "mean_min_goal_error": 0.19700388423734502
+    },
+    {
+      "checkpoint": 100000,
+      "scenario": "C",
+      "success": 0.0,
+      "collision": 0.0,
+      "timeout": 1.0,
+      "mean_error": 0.8015054054121222,
+      "mean_path_length": 0.618217963811079,
+      "mean_normalized_action_norm": 0.32803058184693074,
+      "mean_min_goal_error": 0.5991429775442562
+    },
+    {
+      "checkpoint": 200000,
+      "scenario": "A",
+      "success": 0.1,
+      "collision": 0.0,
+      "timeout": 0.9,
+      "mean_error": 0.2921859548665497,
+      "mean_path_length": 1.2945341368480083,
+      "mean_normalized_action_norm": 0.6018543087463782,
+      "mean_min_goal_error": 0.11005149933094174
+    },
+    {
+      "checkpoint": 200000,
+      "scenario": "B",
+      "success": 0.46,
+      "collision": 0.0,
+      "timeout": 0.54,
+      "mean_error": 0.08317345797129624,
+      "mean_path_length": 1.0040704321530085,
+      "mean_normalized_action_norm": 0.7341342069650645,
+      "mean_min_goal_error": 0.060709703732246385
+    },
+    {
+      "checkpoint": 200000,
+      "scenario": "C",
+      "success": 0.0,
+      "collision": 0.0,
+      "timeout": 1.0,
+      "mean_error": 0.6006605986779872,
+      "mean_path_length": 0.19740767991421618,
+      "mean_normalized_action_norm": 0.13035697692172096,
+      "mean_min_goal_error": 0.5704849044467609
+    },
+    {
+      "checkpoint": 300000,
+      "scenario": "A",
+      "success": 0.04,
+      "collision": 0.0,
+      "timeout": 0.96,
+      "mean_error": 0.2715529847911189,
+      "mean_path_length": 1.6855338280566812,
+      "mean_normalized_action_norm": 0.788410983161264,
+      "mean_min_goal_error": 0.12347765737251862
+    },
+    {
+      "checkpoint": 300000,
+      "scenario": "B",
+      "success": 0.6,
+      "collision": 0.02,
+      "timeout": 0.38,
+      "mean_error": 0.08792015758909028,
+      "mean_path_length": 0.881227906545412,
+      "mean_normalized_action_norm": 1.0060631175822219,
+      "mean_min_goal_error": 0.038879544127176556
+    },
+    {
+      "checkpoint": 300000,
+      "scenario": "C",
+      "success": 0.0,
+      "collision": 0.0,
+      "timeout": 1.0,
+      "mean_error": 0.6100993878973184,
+      "mean_path_length": 0.506795704372723,
+      "mean_normalized_action_norm": 0.1685891696398575,
+      "mean_min_goal_error": 0.5848182039670595
+    }
+  ],
+  "timeout_semantics": {
+    "identical_observation": true,
+    "early_reward": -0.01,
+    "late_reward": -5.01,
+    "early_terminated": false,
+    "late_terminated": false,
+    "early_truncated": false,
+    "late_truncated": true,
+    "remaining_time_present": false,
+    "replay_uses_terminated_only": true,
+    "finite_deadline_definition_mismatch": true
+  },
+  "independent_test_evaluated": false,
+  "additional_seeds_deferred": true,
+  "task_and_original_artifact_hashes_unchanged": true
+}

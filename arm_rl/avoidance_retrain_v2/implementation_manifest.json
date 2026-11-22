@@ -1,0 +1,15 @@
+{
+  "source_sha256": {
+    "avoidance_v2.py": "86c96ac275cb507fb75e19714c4f43987c33d914e28b1b8dd8485a07635c239e",
+    "retrain_avoidance_v2.py": "91ffe414727220d343b9be52fb8f5c7af6572f5613dc31fc3226869ed431df06",
+    "report_avoidance_v2.py": "e1d762a34eaf74d50826dee2fcce0c8817ad058e3f579b3fbb54c164451624f3",
+    "test_avoidance_v2.py": "46b4ebe6717e835c4367df714577f62251eb3d8f77b95eefe5f3c38518bf60a6"
+  },
+  "runtime_packages": {
+    "torch": "2.13.0+cu126",
+    "numpy": "2.4.6",
+    "matplotlib": "3.11.1"
+  },
+  "unit_checks_passed": 17,
+  "legacy_observation_tests_included": true
+}

@@ -1,0 +1,245 @@
+{
+  "passed": true,
+  "tests_run": 12,
+  "failures": 0,
+  "errors": 0,
+  "reference_replay": [
+    {
+      "task_id": "g01_A",
+      "steps": 31,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g01_B",
+      "steps": 31,
+      "final_error": 0.0,
+      "min_clearance": 0.5260177353351949,
+      "passed": true
+    },
+    {
+      "task_id": "g01_C",
+      "steps": 73,
+      "final_error": 0.0,
+      "min_clearance": 0.028024238057028115,
+      "passed": true
+    },
+    {
+      "task_id": "g02_A",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g02_B",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g02_C",
+      "steps": 70,
+      "final_error": 0.0,
+      "min_clearance": 0.022920649710053313,
+      "passed": true
+    },
+    {
+      "task_id": "g03_A",
+      "steps": 10,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g03_B",
+      "steps": 10,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g03_C",
+      "steps": 57,
+      "final_error": 0.0,
+      "min_clearance": 0.019080794670079494,
+      "passed": true
+    },
+    {
+      "task_id": "g04_A",
+      "steps": 27,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g04_B",
+      "steps": 27,
+      "final_error": 0.0,
+      "min_clearance": 0.5092344545164728,
+      "passed": true
+    },
+    {
+      "task_id": "g04_C",
+      "steps": 84,
+      "final_error": 0.0,
+      "min_clearance": 0.0455068722986198,
+      "passed": true
+    },
+    {
+      "task_id": "g05_A",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g05_B",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": 0.4278643030109233,
+      "passed": true
+    },
+    {
+      "task_id": "g05_C",
+      "steps": 64,
+      "final_error": 0.0,
+      "min_clearance": 0.0184380493335926,
+      "passed": true
+    },
+    {
+      "task_id": "g06_A",
+      "steps": 14,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g06_B",
+      "steps": 14,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g06_C",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": 0.03165499925586912,
+      "passed": true
+    },
+    {
+      "task_id": "g07_A",
+      "steps": 33,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g07_B",
+      "steps": 33,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g07_C",
+      "steps": 54,
+      "final_error": 0.0,
+      "min_clearance": 0.039494837881075995,
+      "passed": true
+    },
+    {
+      "task_id": "g08_A",
+      "steps": 22,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g08_B",
+      "steps": 22,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g08_C",
+      "steps": 45,
+      "final_error": 0.0,
+      "min_clearance": 0.024223230058011167,
+      "passed": true
+    },
+    {
+      "task_id": "g09_A",
+      "steps": 49,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g09_B",
+      "steps": 49,
+      "final_error": 0.0,
+      "min_clearance": 0.5700393259113283,
+      "passed": true
+    },
+    {
+      "task_id": "g09_C",
+      "steps": 100,
+      "final_error": 0.0,
+      "min_clearance": 0.020622632281207493,
+      "passed": true
+    },
+    {
+      "task_id": "g10_A",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g10_B",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g10_C",
+      "steps": 66,
+      "final_error": 0.0,
+      "min_clearance": 0.070469056165707,
+      "passed": true
+    }
+  ],
+  "repeatability": [
+    {
+      "method": "sac_s0",
+      "task_id": "g01_C",
+      "passed": true
+    },
+    {
+      "method": "sac_s1",
+      "task_id": "g01_C",
+      "passed": true
+    },
+    {
+      "method": "dls_noavoid",
+      "task_id": "g01_C",
+      "passed": true
+    },
+    {
+      "method": "dls_avoid",
+      "task_id": "g01_C",
+      "passed": true
+    }
+  ],
+  "tasks_unchanged": true,
+  "models_unchanged": true,
+  "episode_count": 240,
+  "expected_episode_count": 240,
+  "outcomes_mutually_exclusive": true
+}

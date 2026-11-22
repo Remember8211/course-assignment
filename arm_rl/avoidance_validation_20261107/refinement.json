@@ -1,0 +1,1421 @@
+{
+  "coarse_resolution": 0.001,
+  "fine_resolution": 0.0005,
+  "missed_collision_episodes": [],
+  "rerun_at_fine": false,
+  "audited_episodes": 240,
+  "reference_checks": [
+    {
+      "task_id": "g01_A",
+      "steps": 31,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g01_B",
+      "steps": 31,
+      "final_error": 0.0,
+      "min_clearance": 0.5260177353351949,
+      "passed": true
+    },
+    {
+      "task_id": "g01_C",
+      "steps": 73,
+      "final_error": 0.0,
+      "min_clearance": 0.028024238057028115,
+      "passed": true
+    },
+    {
+      "task_id": "g02_A",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g02_B",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g02_C",
+      "steps": 70,
+      "final_error": 0.0,
+      "min_clearance": 0.022920649710053313,
+      "passed": true
+    },
+    {
+      "task_id": "g03_A",
+      "steps": 10,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g03_B",
+      "steps": 10,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g03_C",
+      "steps": 57,
+      "final_error": 0.0,
+      "min_clearance": 0.019080794670079494,
+      "passed": true
+    },
+    {
+      "task_id": "g04_A",
+      "steps": 27,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g04_B",
+      "steps": 27,
+      "final_error": 0.0,
+      "min_clearance": 0.5092344545164728,
+      "passed": true
+    },
+    {
+      "task_id": "g04_C",
+      "steps": 84,
+      "final_error": 0.0,
+      "min_clearance": 0.0455068722986198,
+      "passed": true
+    },
+    {
+      "task_id": "g05_A",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g05_B",
+      "steps": 44,
+      "final_error": 0.0,
+      "min_clearance": 0.4278643030109233,
+      "passed": true
+    },
+    {
+      "task_id": "g05_C",
+      "steps": 64,
+      "final_error": 0.0,
+      "min_clearance": 0.0184380493335926,
+      "passed": true
+    },
+    {
+      "task_id": "g06_A",
+      "steps": 14,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g06_B",
+      "steps": 14,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g06_C",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": 0.03165499925586912,
+      "passed": true
+    },
+    {
+      "task_id": "g07_A",
+      "steps": 33,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g07_B",
+      "steps": 33,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g07_C",
+      "steps": 54,
+      "final_error": 0.0,
+      "min_clearance": 0.039494837881075995,
+      "passed": true
+    },
+    {
+      "task_id": "g08_A",
+      "steps": 22,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g08_B",
+      "steps": 22,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g08_C",
+      "steps": 45,
+      "final_error": 0.0,
+      "min_clearance": 0.024223230058011167,
+      "passed": true
+    },
+    {
+      "task_id": "g09_A",
+      "steps": 49,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g09_B",
+      "steps": 49,
+      "final_error": 0.0,
+      "min_clearance": 0.5700393259113283,
+      "passed": true
+    },
+    {
+      "task_id": "g09_C",
+      "steps": 100,
+      "final_error": 0.0,
+      "min_clearance": 0.020622632281207493,
+      "passed": true
+    },
+    {
+      "task_id": "g10_A",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": null,
+      "passed": true
+    },
+    {
+      "task_id": "g10_B",
+      "steps": 51,
+      "final_error": 0.0,
+      "min_clearance": 0.5708203932499369,
+      "passed": true
+    },
+    {
+      "task_id": "g10_C",
+      "steps": 66,
+      "final_error": 0.0,
+      "min_clearance": 0.070469056165707,
+      "passed": true
+    }
+  ],
+  "episode_checks": [
+    {
+      "episode": "sac_s0:g01_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g01_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g01_C:0.08",
+      "min_clearance": -9.001881693139133e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_C:0.08",
+      "min_clearance": 0.15887230128914745,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_C:0.08",
+      "min_clearance": 0.15186640583948854,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_C:0.08",
+      "min_clearance": -0.0007049679140674024,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_C:0.08",
+      "min_clearance": 0.07575837877370145,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_C:0.08",
+      "min_clearance": 0.06946941166627726,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_C:0.08",
+      "min_clearance": 0.18585059844245574,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_C:0.08",
+      "min_clearance": -0.0008645603500042724,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_C:0.08",
+      "min_clearance": -9.893493594942057e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_C:0.08",
+      "min_clearance": -6.413103803263806e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_C:0.08",
+      "min_clearance": -1.4097006651263982e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_C:0.08",
+      "min_clearance": -0.0001969079892313423,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_C:0.08",
+      "min_clearance": 0.15186640583948854,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_C:0.08",
+      "min_clearance": -0.0001752174897205437,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_C:0.08",
+      "min_clearance": -0.00023725357867820582,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_C:0.08",
+      "min_clearance": -7.2937694980505785e-06,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_C:0.08",
+      "min_clearance": -0.0006714210124628799,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_C:0.08",
+      "min_clearance": -0.000613469683975406,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_C:0.08",
+      "min_clearance": -0.0002705274769422665,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_C:0.08",
+      "min_clearance": 0.070469056165707,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_C:0.08",
+      "min_clearance": -0.0008386607494525848,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_C:0.08",
+      "min_clearance": -0.0005541796028269257,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_C:0.08",
+      "min_clearance": -0.0005847440810048503,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_C:0.08",
+      "min_clearance": -1.932418738955985e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_C:0.08",
+      "min_clearance": -0.0008303326752928768,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_C:0.08",
+      "min_clearance": -0.000855754140839781,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_C:0.08",
+      "min_clearance": -0.00034764081004641165,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_C:0.08",
+      "min_clearance": -0.00024248645220769846,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_C:0.08",
+      "min_clearance": -0.00046162464307913584,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_C:0.08",
+      "min_clearance": -0.00036469464245042146,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_C:0.08",
+      "min_clearance": -0.0008386607494525848,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_C:0.08",
+      "min_clearance": -0.0005541796028269257,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_C:0.08",
+      "min_clearance": -0.0005847440810048503,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_C:0.08",
+      "min_clearance": -1.932418738955985e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_C:0.08",
+      "min_clearance": -8.45688572983054e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_C:0.08",
+      "min_clearance": -0.000855754140839781,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_C:0.08",
+      "min_clearance": -0.00034764081004641165,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_C:0.08",
+      "min_clearance": -0.00024248645220769846,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_C:0.08",
+      "min_clearance": -4.243876292869472e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_A:0.08",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_B:0.08",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_C:0.08",
+      "min_clearance": -0.00036469464245042146,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g01_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g01_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g01_C:0.02",
+      "min_clearance": -9.001881693139133e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g02_C:0.02",
+      "min_clearance": 0.15887230128914745,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g03_C:0.02",
+      "min_clearance": 0.15186640583948854,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g04_C:0.02",
+      "min_clearance": -0.0007049679140674024,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g05_C:0.02",
+      "min_clearance": 0.07575837877370145,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g06_C:0.02",
+      "min_clearance": 0.06946941166627726,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g07_C:0.02",
+      "min_clearance": 0.18585059844245574,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g08_C:0.02",
+      "min_clearance": -0.0008645603500042724,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g09_C:0.02",
+      "min_clearance": -9.893493594942057e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s0:g10_C:0.02",
+      "min_clearance": -6.413103803263806e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_B:0.02",
+      "min_clearance": 0.24701007231414743,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g01_C:0.02",
+      "min_clearance": -1.4097006651263982e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g02_C:0.02",
+      "min_clearance": -0.0001969079892313423,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_B:0.02",
+      "min_clearance": -5.415419932841212e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g03_C:0.02",
+      "min_clearance": 0.15186640583948854,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g04_C:0.02",
+      "min_clearance": -0.0001752174897205437,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g05_C:0.02",
+      "min_clearance": -0.00023725357867820582,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_B:0.02",
+      "min_clearance": 0.5667722887645289,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g06_C:0.02",
+      "min_clearance": -7.2937694980505785e-06,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g07_C:0.02",
+      "min_clearance": -0.0006714210124628799,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g08_C:0.02",
+      "min_clearance": -0.000613469683975406,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g09_C:0.02",
+      "min_clearance": -0.0002705274769422665,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "sac_s1:g10_C:0.02",
+      "min_clearance": 0.070469056165707,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g01_C:0.02",
+      "min_clearance": -0.0008386607494525848,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g02_C:0.02",
+      "min_clearance": -0.0005541796028269257,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g03_C:0.02",
+      "min_clearance": -0.0005847440810048503,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g04_C:0.02",
+      "min_clearance": -1.932418738955985e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g05_C:0.02",
+      "min_clearance": -0.0008303326752928768,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g06_C:0.02",
+      "min_clearance": -0.000855754140839781,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g07_C:0.02",
+      "min_clearance": -0.00034764081004641165,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g08_C:0.02",
+      "min_clearance": -0.00024248645220769846,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g09_C:0.02",
+      "min_clearance": -0.00046162464307913584,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_noavoid:g10_C:0.02",
+      "min_clearance": -0.00036469464245042146,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g01_C:0.02",
+      "min_clearance": -0.0008386607494525848,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g02_C:0.02",
+      "min_clearance": -0.0005541796028269257,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g03_C:0.02",
+      "min_clearance": -0.0005847440810048503,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g04_C:0.02",
+      "min_clearance": -1.932418738955985e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g05_C:0.02",
+      "min_clearance": -8.45688572983054e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g06_C:0.02",
+      "min_clearance": -0.000855754140839781,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g07_C:0.02",
+      "min_clearance": -0.00034764081004641165,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g08_C:0.02",
+      "min_clearance": -0.00024248645220769846,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g09_C:0.02",
+      "min_clearance": -4.243876292869472e-05,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_A:0.02",
+      "min_clearance": null,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_B:0.02",
+      "min_clearance": 0.5708203932499369,
+      "missed_collision": false
+    },
+    {
+      "episode": "dls_avoid:g10_C:0.02",
+      "min_clearance": -0.00036469464245042146,
+      "missed_collision": false
+    }
+  ]
+}

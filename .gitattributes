@@ -2,3 +2,5 @@
 *.pt -text
 *.npy -text
 *.png -text
+# Preserve historical source/data hashes across platforms.
+arm_rl/** -text

@@ -1,0 +1,53 @@
+{
+  "seed": 20261107,
+  "groups": 10,
+  "requested_groups": 10,
+  "methods": [
+    "sac_s0",
+    "sac_s1",
+    "dls_noavoid",
+    "dls_avoid"
+  ],
+  "tolerances": [
+    0.08,
+    0.02
+  ],
+  "max_steps": 120,
+  "action_scale": 0.05,
+  "link_lengths": [
+    0.4,
+    0.3,
+    0.3
+  ],
+  "link_radius": 0.02,
+  "obstacle_radius": 0.08,
+  "q0": [
+    0.2,
+    0.5,
+    -0.6
+  ],
+  "reference_margin": 0.01,
+  "coarse_resolution": 0.001,
+  "fine_resolution": 0.0005,
+  "model_hashes": {
+    "sac_s0": "ab19a4a124ce237c8c758748507f9b7ac0436d8e7bd83831ae9bcc4cdd8b7337",
+    "sac_s1": "afe5e4af63d1976a0ba917c3703536175abb8b3b2561d1e523b2fe275cddd5a0"
+  },
+  "tasks_sha256": "dee9ba6c780f0aa73f8b44d0d97043bd90953b624006390b54d95fc4eebf5382",
+  "device": "cpu",
+  "policy_observation_dim": 13,
+  "policy_updated": false,
+  "self_collision_checked": false,
+  "runtime": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "torch": "2.13.0+cu126",
+    "matplotlib": "3.11.1"
+  },
+  "source_hashes": {
+    "env3link.py": "d6954705777e8de5539b2b0ef3f46ba17512f8dfd2acf337e5aec883225964ca",
+    "sac.py": "c886553271a4aaa946ea822345cf777ece226ecf68f71720bc215700a1256fae",
+    "dls_baseline.py": "fc0982aaf1944d570d1af62fd4a9123fb1639e9d076ae0d934f98fbacc15ac92",
+    "validate_avoidance.py": "463bf27e296c2cf48676d7a75f5bb0af1f3960c09bd5439421cf2c3c3ac3ab04"
+  }
+}

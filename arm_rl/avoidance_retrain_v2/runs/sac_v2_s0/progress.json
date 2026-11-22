@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "step": 300000,
+  "seconds": 3105.7933762073517,
+  "training_terminal_counts": {
+    "timeout": 2361,
+    "success": 389,
+    "collision": 101
+  },
+  "sampled_episodes": {
+    "B": 782,
+    "A": 502,
+    "C": 1568
+  }
+}

@@ -1,0 +1,1571 @@
+{
+  "seed": 20261107,
+  "candidates_seen": 297,
+  "accepted_groups": 10,
+  "requested_groups": 10,
+  "candidate_cap": 10000,
+  "rejections": {
+    "goal_outside_original_sector": 271,
+    "start_goal_too_close": 3,
+    "goal_success_region_clearance": 6,
+    "reference_exceeds_step_limit": 1,
+    "initial_arm_clearance": 6
+  },
+  "seconds": 0.7939131259918213,
+  "records": [
+    {
+      "candidate_index": 1,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 2,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 3,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 4,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 5,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 6,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 7,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 8,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 9,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 10,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 11,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 12,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 13,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 14,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 15,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 16,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 17,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 18,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 19,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 20,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 21,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 22,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 23,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 24,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 25,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 26,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 27,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 28,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 29,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 30,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 31,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 32,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 33,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 34,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 35,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 36,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 37,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 38,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 39,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 40,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 41,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 42,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 43,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 44,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 45,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 46,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 47,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 48,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 49,
+      "reason": "start_goal_too_close"
+    },
+    {
+      "candidate_index": 50,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 51,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 52,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 53,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 54,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 55,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 56,
+      "q_goal": [
+        1.474694163446614,
+        -1.0358282684310955,
+        0.512514810257044
+      ],
+      "goal": [
+        0.48411979864239085,
+        0.7698935870488565
+      ],
+      "blocker": [
+        0.7303939031487436,
+        0.49658238186034737
+      ],
+      "blocker_t": 0.4243008459881351,
+      "planner_extensions": 164,
+      "accepted_group": 1,
+      "reference_steps": 73,
+      "reference_min_clearance": 0.028024668257235517,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 57,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 58,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 59,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 60,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 61,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 62,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 63,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 64,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 65,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 66,
+      "q_goal": [
+        -0.5255096491350488,
+        -0.41446453858533117,
+        1.590812025474051
+      ],
+      "goal": [
+        0.7616429568692813,
+        -0.26116848868053805
+      ],
+      "blocker": [
+        0.8286670467800477,
+        -0.041880761012487784
+      ],
+      "blocker_t": 0.608576071444416,
+      "planner_extensions": 269,
+      "accepted_group": 2,
+      "reference_steps": 70,
+      "reference_min_clearance": 0.0229206817007705,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 67,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 68,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 69,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 70,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 71,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 72,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 73,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 74,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 75,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 76,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 77,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 78,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 79,
+      "q_goal": [
+        -0.26968965402374856,
+        0.06346997455156389,
+        -0.7702253201015319
+      ],
+      "goal": [
+        0.8471764742574084,
+        -0.4165548466109126
+      ],
+      "blocker": [
+        0.8847536855666063,
+        0.046017582394689796
+      ],
+      "blocker_t": 0.3581456405598305,
+      "planner_extensions": 271,
+      "accepted_group": 3,
+      "reference_steps": 57,
+      "reference_min_clearance": 0.019080697569097933,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 80,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 81,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 82,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 83,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 84,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 85,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 86,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 87,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 88,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 89,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 90,
+      "q_goal": [
+        -0.0435941662317596,
+        0.9307503511636606,
+        -1.4532267239837897
+      ],
+      "goal": [
+        0.8423102478791403,
+        0.05425555688969014
+      ],
+      "blocker": [
+        0.8720229813508728,
+        0.16215572355618763
+      ],
+      "blocker_t": 0.5702783951375786,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 91,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 92,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 93,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 94,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 95,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 96,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 97,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 98,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 99,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 100,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 101,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 102,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 103,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 104,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 105,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 106,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 107,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 108,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 109,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 110,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 111,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 112,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 113,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 114,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 115,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 116,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 117,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 118,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 119,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 120,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 121,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 122,
+      "q_goal": [
+        0.35720843523344525,
+        -0.9742063396127731,
+        0.7442751129716827
+      ],
+      "goal": [
+        0.917009717061712,
+        0.00436749226883431
+      ],
+      "blocker": [
+        0.9277606350085904,
+        0.13313125724861924
+      ],
+      "blocker_t": 0.5680478574746155,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 123,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 124,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 125,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 126,
+      "q_goal": [
+        -0.17805399499007102,
+        -0.42355937481055284,
+        1.4380293053893354
+      ],
+      "goal": [
+        0.8420413726906694,
+        -0.01796402740541156
+      ],
+      "blocker": [
+        0.8717285416620697,
+        0.1394168298271365
+      ],
+      "blocker_t": 0.515309414736967,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 127,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 128,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 129,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 130,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 131,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 132,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 133,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 134,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 135,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 136,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 137,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 138,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 139,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 140,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 141,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 142,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 143,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 144,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 145,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 146,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 147,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 148,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 149,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 150,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 151,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 152,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 153,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 154,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 155,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 156,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 157,
+      "q_goal": [
+        -0.8393477416683561,
+        2.088509061640738,
+        -1.3831707263022286
+      ],
+      "goal": [
+        0.6593250479526491,
+        -0.05314969140799144
+      ],
+      "blocker": [
+        0.753722525968622,
+        0.08211996882612363
+      ],
+      "blocker_t": 0.6261345748222209,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 158,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 159,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 160,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 161,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 162,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 163,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 164,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 165,
+      "q_goal": [
+        1.5389984326214465,
+        -0.04892278926015958,
+        -1.227393329106274
+      ],
+      "goal": [
+        0.32661600935536395,
+        0.7767224877712621
+      ],
+      "blocker": [
+        0.6803553095775036,
+        0.4938044360844867
+      ],
+      "blocker_t": 0.4035822787731523,
+      "planner_extensions": 358,
+      "accepted_group": 4,
+      "reference_steps": 84,
+      "reference_min_clearance": 0.045506871152759504,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 166,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 167,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 168,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 169,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 170,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 171,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 172,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 173,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 174,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 175,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 176,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 177,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 178,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 179,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 180,
+      "q_goal": [
+        1.7726475025959942,
+        -1.6589131870520955,
+        0.7307561015186681
+      ],
+      "goal": [
+        0.4171021654347131,
+        0.6502154691953468
+      ],
+      "blocker": [
+        0.6226208551426461,
+        0.5193778922160062
+      ],
+      "blocker_t": 0.6017260626269999,
+      "planner_extensions": 214,
+      "accepted_group": 5,
+      "reference_steps": 64,
+      "reference_min_clearance": 0.0184380493335926,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 181,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 182,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 183,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 184,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 185,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 186,
+      "reason": "start_goal_too_close"
+    },
+    {
+      "candidate_index": 187,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 188,
+      "q_goal": [
+        -0.5981334494387758,
+        1.893623276699918,
+        -2.53057671879344
+      ],
+      "goal": [
+        0.5109395417528861,
+        -0.21979085645049587
+      ],
+      "blocker": [
+        0.6886721124999865,
+        0.005247031139619386
+      ],
+      "blocker_t": 0.5678420854968429,
+      "planner_extensions": 770,
+      "reason": "reference_exceeds_step_limit"
+    },
+    {
+      "candidate_index": 189,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 190,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 191,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 192,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 193,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 194,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 195,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 196,
+      "q_goal": [
+        0.8983038928833427,
+        1.0240840000596947,
+        -1.1689290133389534
+      ],
+      "goal": [
+        0.3646553751232573,
+        0.799805970511912
+      ],
+      "blocker": [
+        0.6236124350972263,
+        0.5707500672886854
+      ],
+      "blocker_t": 0.5361542389150644,
+      "planner_extensions": 175,
+      "accepted_group": 6,
+      "reference_steps": 51,
+      "reference_min_clearance": 0.03165504600164426,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 197,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 198,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 199,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 200,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 201,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 202,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 203,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 204,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 205,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 206,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 207,
+      "q_goal": [
+        0.4111160847344877,
+        -0.13142979609958116,
+        1.815738726596643
+      ],
+      "goal": [
+        0.5047452744424376,
+        0.5023223043559565
+      ],
+      "blocker": [
+        0.7466519179021883,
+        0.3796463725974207
+      ],
+      "blocker_t": 0.4114312952193839,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 208,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 209,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 210,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 211,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 212,
+      "q_goal": [
+        0.04408103389056928,
+        0.058635323058278566,
+        2.0963396811086294
+      ],
+      "goal": [
+        0.5217089292805609,
+        0.29110292304465485
+      ],
+      "blocker": [
+        0.6963023443129951,
+        0.2899458720305616
+      ],
+      "blocker_t": 0.5620769373585013,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 213,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 214,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 215,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 216,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 217,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 218,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 219,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 220,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 221,
+      "q_goal": [
+        0.33339896772301403,
+        -1.1004452104910132,
+        0.20379909831772292
+      ],
+      "goal": [
+        0.8476210551345571,
+        -0.23748117995117995
+      ],
+      "blocker": [
+        0.8756595289696849,
+        -0.027177228456868357
+      ],
+      "blocker_t": 0.6106991756273419,
+      "planner_extensions": 155,
+      "accepted_group": 7,
+      "reference_steps": 54,
+      "reference_min_clearance": 0.039494801267612095,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 222,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 223,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 224,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 225,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 226,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 227,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 228,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 229,
+      "q_goal": [
+        -0.3322989967782375,
+        2.1794827215633754,
+        -0.9582251193024813
+      ],
+      "goal": [
+        0.48531964250897663,
+        0.3910521689803362
+      ],
+      "blocker": [
+        0.6643056560565572,
+        0.34567946081771983
+      ],
+      "blocker_t": 0.5841816489769547,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 230,
+      "q_goal": [
+        -0.049343416571490994,
+        -0.8012905729758555,
+        1.983793578446436
+      ],
+      "goal": [
+        0.7245051907386701,
+        0.026487761474909943
+      ],
+      "blocker": [
+        0.8303226122344096,
+        0.18133731301961956
+      ],
+      "blocker_t": 0.44579486139375396,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 231,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 232,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 233,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 234,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 235,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 236,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 237,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 238,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 239,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 240,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 241,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 242,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 243,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 244,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 245,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 246,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 247,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 248,
+      "q_goal": [
+        0.835097361155956,
+        0.6197219657588211,
+        -2.1838088110951155
+      ],
+      "goal": [
+        0.5269117276398605,
+        0.3946945175177353
+      ],
+      "blocker": [
+        0.7365786836693439,
+        0.3472013779955932
+      ],
+      "blocker_t": 0.4674855405709696,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 249,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 250,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 251,
+      "q_goal": [
+        0.9794012913016266,
+        -0.7996210684489138,
+        0.2445429664362666
+      ],
+      "goal": [
+        0.7915680500700368,
+        0.509220719766
+      ],
+      "blocker": [
+        0.8339794112713366,
+        0.43142047862295796
+      ],
+      "blocker_t": 0.6362517050271315,
+      "reason": "goal_success_region_clearance"
+    },
+    {
+      "candidate_index": 252,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 253,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 254,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 255,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 256,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 257,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 258,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 259,
+      "q_goal": [
+        1.0126612978894478,
+        0.9978177195793494,
+        -1.6909369692545193
+      ],
+      "goal": [
+        0.3689601727240126,
+        0.7050032923150584
+      ],
+      "blocker": [
+        0.7227818015978741,
+        0.45238063854957766
+      ],
+      "blocker_t": 0.36281916409972714,
+      "planner_extensions": 255,
+      "accepted_group": 8,
+      "reference_steps": 45,
+      "reference_min_clearance": 0.02422322240429423,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 260,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 261,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 262,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 263,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 264,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 265,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 266,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 267,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 268,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 269,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 270,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 271,
+      "reason": "start_goal_too_close"
+    },
+    {
+      "candidate_index": 272,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 273,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 274,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 275,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 276,
+      "q_goal": [
+        0.4900350271638052,
+        -1.9447638861482608,
+        2.3832651937662224
+      ],
+      "goal": [
+        0.5673706546988027,
+        0.13050441453035042
+      ],
+      "blocker": [
+        0.7337266406705951,
+        0.21464888941629623
+      ],
+      "blocker_t": 0.5249576635542607,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 277,
+      "q_goal": [
+        1.1554099333481496,
+        -1.0744885072596602,
+        1.8138585374246485
+      ],
+      "goal": [
+        0.36493205328380696,
+        0.6746265577864452
+      ],
+      "blocker": [
+        0.6198766912171744,
+        0.5056329599238352
+      ],
+      "blocker_t": 0.5422195556768432,
+      "planner_extensions": 482,
+      "accepted_group": 9,
+      "reference_steps": 100,
+      "reference_min_clearance": 0.020622632281207493,
+      "reason": "accepted"
+    },
+    {
+      "candidate_index": 278,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 279,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 280,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 281,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 282,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 283,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 284,
+      "q_goal": [
+        0.8974817024638408,
+        -1.9909740341136242,
+        1.4018180124107458
+      ],
+      "goal": [
+        0.6731010055208773,
+        0.13727172419117942
+      ],
+      "blocker": [
+        0.808776714236814,
+        0.22718740910154375
+      ],
+      "blocker_t": 0.4522885018725332,
+      "reason": "initial_arm_clearance"
+    },
+    {
+      "candidate_index": 285,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 286,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 287,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 288,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 289,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 290,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 291,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 292,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 293,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 294,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 295,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 296,
+      "reason": "goal_outside_original_sector"
+    },
+    {
+      "candidate_index": 297,
+      "q_goal": [
+        -1.0711278859518418,
+        0.5102497852798531,
+        1.9298173164757149
+      ],
+      "goal": [
+        0.505837045402684,
+        -0.2167667980271626
+      ],
+      "blocker": [
+        0.7679491890168308,
+        0.11610408065976882
+      ],
+      "blocker_t": 0.3622606987745306,
+      "planner_extensions": 524,
+      "accepted_group": 10,
+      "reference_steps": 66,
+      "reference_min_clearance": 0.070469056165707,
+      "reason": "accepted"
+    }
+  ],
+  "selection_uses_policy_results": false,
+  "goal_proposal": "uniform joint goal in [-pi,pi]^3; FK then sector filtering",
+  "planner": "RRT-Connect, step 0.2, 10000 extension cap, 100 shortcuts"
+}

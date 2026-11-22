@@ -1,0 +1,49 @@
+{
+  "seed": 0,
+  "steps": 300000,
+  "seconds": 3111.50798869133,
+  "selected": {
+    "seed": 0,
+    "step": 50000,
+    "validation": {
+      "A": {
+        "success": 0.16,
+        "collision": 0.0,
+        "timeout": 0.84,
+        "mean_error": 0.2663291385501051
+      },
+      "B": {
+        "success": 0.14,
+        "collision": 0.0,
+        "timeout": 0.86,
+        "mean_error": 0.5180287225226868
+      },
+      "C": {
+        "success": 0.04,
+        "collision": 0.8,
+        "timeout": 0.16,
+        "mean_error": 0.416509951806879
+      }
+    },
+    "selection_key": [
+      0.04,
+      0.14,
+      -0.416509951806879,
+      -50000
+    ],
+    "observation_version": "full_circle_geometry_v2_21",
+    "obs_dim": 21,
+    "checkpoint": "checkpoint_050000.pt"
+  },
+  "model_sha256": "7dc1e9c084eec9fcecde0b0097138ce4f2dd11d07fbec3b70d475bfc64b9751f",
+  "training_terminal_counts": {
+    "timeout": 2361,
+    "success": 389,
+    "collision": 101
+  },
+  "sampled_episodes": {
+    "B": 782,
+    "A": 502,
+    "C": 1568
+  }
+}

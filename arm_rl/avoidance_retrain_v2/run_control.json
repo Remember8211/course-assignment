@@ -1,0 +1,12 @@
+{
+  "status": "single_seed_diagnosis_requested_by_user",
+  "completed_seeds": [0],
+  "deferred_seeds": [1, 2],
+  "steps_completed_seed0": 300000,
+  "selected_checkpoint_seed0": 50000,
+  "training_seconds_seed0": 3111.50798869133,
+  "remaining_seeds_started": false,
+  "independent_test_controller_evaluation_run": false,
+  "reward_or_training_code_changed_after_start": false,
+  "note": "User chose to diagnose the current seed before deciding on the other two. The queue was stopped only after seed 0 completed and wrote its completion record."
+}

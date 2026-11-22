@@ -1,0 +1,4802 @@
+[
+  {
+    "checkpoint": 50000,
+    "task_id": "g01_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.90869806856918,
+    "discounted_return": -0.9475407900002943
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g01_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.199298343882344,
+    "discounted_return": -2.316151258272608
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g01_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.852766462889225,
+    "discounted_return": -2.152333306941046
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g02_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.2423816817388555,
+    "discounted_return": -1.2299169475070102
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g02_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.490729794496999,
+    "discounted_return": -1.934824142772417
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g02_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.746145925006083,
+    "discounted_return": -11.929086199070019
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g03_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.544954434029826,
+    "discounted_return": -0.6375934371286684
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g03_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.027256645006927,
+    "discounted_return": -1.3898899272515928
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g03_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -3.1709224121919535,
+    "discounted_return": -0.6855781231612069
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g04_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.914724704626607,
+    "discounted_return": -0.012142305385767216
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g04_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.7207684653834456,
+    "discounted_return": -0.3950230108331705
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g04_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.961456964040092,
+    "discounted_return": -19.961456964040092
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g05_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -2.9857785071055885,
+    "discounted_return": 0.44301384217385875
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g05_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.523275100229523,
+    "discounted_return": 0.009640840036100995
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g05_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.861939257977006,
+    "discounted_return": -17.541343915432606
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g06_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.859595215975971,
+    "discounted_return": -0.09980620741195412
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g06_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.3171291640765315,
+    "discounted_return": -1.3614579646904612
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g06_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.347853940637886,
+    "discounted_return": -18.196732991530386
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g07_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.930032368360142,
+    "discounted_return": 0.057842817676264646
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g07_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.109574759844998,
+    "discounted_return": 0.24692553524282745
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g07_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.415345378691306,
+    "discounted_return": -19.022031180958624
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g08_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.62961075691359,
+    "discounted_return": -1.0860082942303226
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g08_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.428761187667337,
+    "discounted_return": -0.6308778146581294
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g08_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.810724785946064,
+    "discounted_return": -19.610641544714476
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g09_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.59377420960926,
+    "discounted_return": 19.288863003781522
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g09_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.652506536836704,
+    "discounted_return": -1.4706845600220935
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g09_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.04549627634967,
+    "discounted_return": -19.061705804681672
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g10_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.440365291339107,
+    "discounted_return": -0.6405549119407764
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g10_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.712322226447888,
+    "discounted_return": -1.1239898153494137
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g10_C",
+    "scenario": "C",
+    "status": "success",
+    "return": 22.159175832858345,
+    "discounted_return": 8.711527716904948
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g11_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.426157690072245,
+    "discounted_return": -0.4577473810229342
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g11_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.865384077622107,
+    "discounted_return": -2.0529977475694947
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g11_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.465488740277703,
+    "discounted_return": -17.584753118667734
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g12_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.836814579037267,
+    "discounted_return": 19.333859375826442
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g12_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.796593383331786,
+    "discounted_return": 19.046502367151607
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g12_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.03762346557577,
+    "discounted_return": -18.485941072719744
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g13_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.5386381787715253,
+    "discounted_return": 0.27941233569107116
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g13_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.264060592223359,
+    "discounted_return": -2.1625820185367375
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g13_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.303456003753283,
+    "discounted_return": -18.528356581523738
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g14_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.989163780326308,
+    "discounted_return": -1.0858828518262855
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g14_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.630792533923078,
+    "discounted_return": -2.899150465828267
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g14_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.865198870280959,
+    "discounted_return": -2.729703353887062
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g15_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.7467016865766656,
+    "discounted_return": 0.20217494527541224
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g15_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.81871547485498,
+    "discounted_return": 20.97353331045785
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g15_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.07554783306521,
+    "discounted_return": -17.39379186497964
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g16_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.701058835467533,
+    "discounted_return": -0.8045348078161884
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g16_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -9.030541716071687,
+    "discounted_return": -3.1948804760044314
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g16_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.631896725401656,
+    "discounted_return": -2.6638953530798184
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g17_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.407806104492273,
+    "discounted_return": -1.1405979867925204
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g17_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.484177473031664,
+    "discounted_return": -0.5132537416904952
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g17_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.956172819710496,
+    "discounted_return": -19.755166251335524
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g18_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.219444472372468,
+    "discounted_return": -0.5385160590272416
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g18_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.915703691129076,
+    "discounted_return": -0.536132517849163
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g18_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.763293888714006,
+    "discounted_return": -10.824675918940093
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g19_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.666816817926783,
+    "discounted_return": -0.6806692568786057
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g19_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.670906783895916,
+    "discounted_return": -1.9654291225041631
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g19_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -3.7288783337803957,
+    "discounted_return": -1.147821293787793
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g20_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.499998785718368,
+    "discounted_return": -0.5270291480137665
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g20_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.74753550911438,
+    "discounted_return": -1.98153220908853
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g20_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.6311312150925,
+    "discounted_return": -18.102185175589117
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g21_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.410433488014455,
+    "discounted_return": -1.3951765845899964
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g21_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.25173465535446,
+    "discounted_return": -1.8215900890855756
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g21_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.054192503628844,
+    "discounted_return": -10.981658199444892
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g22_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.44769894339917,
+    "discounted_return": 0.48768334155659354
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g22_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.1538998637543036,
+    "discounted_return": 0.29055104081010774
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g22_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.43526222773329,
+    "discounted_return": -19.041788839984893
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g23_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.837967255528874,
+    "discounted_return": 20.22743103554981
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g23_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.793648317918904,
+    "discounted_return": 0.14648039258140222
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g23_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.886693307074523,
+    "discounted_return": -18.117182705463005
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g24_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.4372112932635637,
+    "discounted_return": 0.5446717453439072
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g24_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3946778680766903,
+    "discounted_return": -0.10283020617599403
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g24_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.007550573767837,
+    "discounted_return": -19.806447880088744
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g25_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.658861430787225,
+    "discounted_return": -1.7212104640496022
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g25_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.109456063186503,
+    "discounted_return": 8.006093123367087
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g25_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.56797075650042,
+    "discounted_return": -19.171460944518685
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g26_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.2527479168191595,
+    "discounted_return": 0.34427122530536836
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g26_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.663057585799402,
+    "discounted_return": -1.4229074175438774
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g26_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.315889484747427,
+    "discounted_return": -16.502904767153638
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g27_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.913646093836819,
+    "discounted_return": -0.9869416975833694
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g27_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.640618186191275,
+    "discounted_return": -1.2019723926274162
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g27_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.252194098855792,
+    "discounted_return": -11.358200132810971
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g28_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.732737238672232,
+    "discounted_return": 19.7752377068005
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g28_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.69522242766495,
+    "discounted_return": 7.923694799623617
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g28_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.33729550228174,
+    "discounted_return": -18.748873884097875
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g29_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.941301963137963,
+    "discounted_return": -0.19879971164062815
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g29_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.028832334833773,
+    "discounted_return": -1.1537342217082807
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g29_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.923913378520833,
+    "discounted_return": -16.22262715411524
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g30_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.370149618522095,
+    "discounted_return": -1.3567581380283085
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g30_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.3790734597325685,
+    "discounted_return": -1.8930970791915143
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g30_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -4.298456735607288,
+    "discounted_return": -1.4501572978408512
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g31_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.885219742609117,
+    "discounted_return": -1.9231044563073951
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g31_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.720722537116058,
+    "discounted_return": -2.5930555403545066
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g31_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.720735317178452,
+    "discounted_return": -11.966146405124272
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g32_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -7.600251965122297,
+    "discounted_return": -2.0245128950359517
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g32_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.65090351462037,
+    "discounted_return": -0.6443694260328523
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g32_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.91859936727147,
+    "discounted_return": -19.91859936727147
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g33_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.3010125284789513,
+    "discounted_return": 0.3065101076931971
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g33_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.616831811027914,
+    "discounted_return": -1.4001668763358335
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g33_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.584637679784926,
+    "discounted_return": -17.105276880671372
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g34_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9102810714012115,
+    "discounted_return": 0.0600030993963141
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g34_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.4961936116311625,
+    "discounted_return": 0.4922408824174822
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g34_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.69660998337736,
+    "discounted_return": -17.743993676732703
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g35_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.133682543395549,
+    "discounted_return": -1.1651728759367925
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g35_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.092253713205118,
+    "discounted_return": -2.3097142894533707
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g35_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.8828271711401,
+    "discounted_return": -2.5849862062244533
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g36_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.3483546835550095,
+    "discounted_return": -0.597096097097681
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g36_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.555959822287973,
+    "discounted_return": -0.9896400211507644
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g36_C",
+    "scenario": "C",
+    "status": "success",
+    "return": 22.467512698428017,
+    "discounted_return": 8.778168760349821
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g37_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.24530419661546,
+    "discounted_return": 19.19693995384842
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g37_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.364035637984497,
+    "discounted_return": 20.149935920099377
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g37_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.384317900673125,
+    "discounted_return": -17.330393337289912
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g38_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.2605239395585235,
+    "discounted_return": -0.42635796655144254
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g38_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.541212314049872,
+    "discounted_return": 0.5636593172199582
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g38_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.2927997888186,
+    "discounted_return": -18.9007441432654
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g39_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.55520805404258,
+    "discounted_return": -1.2258918023706455
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g39_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.091722326953705,
+    "discounted_return": -1.178409353789315
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g39_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.95589492648133,
+    "discounted_return": -19.95589492648133
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g40_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.6141614880401853,
+    "discounted_return": 0.2947723242544451
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g40_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.094336526688927,
+    "discounted_return": 21.244884927146494
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g40_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.769640250532724,
+    "discounted_return": -17.280949030454323
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g41_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.70899818943807,
+    "discounted_return": 14.11451332308876
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g41_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.9495898799849,
+    "discounted_return": -2.846896430583304
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g41_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -20.108447771180114,
+    "discounted_return": -16.305260004100177
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g42_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.030729815171302,
+    "discounted_return": -0.14675137945069783
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g42_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3906141586501093,
+    "discounted_return": 0.7404781445701978
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g42_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.11087723960971,
+    "discounted_return": -18.527435446418256
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g43_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -2.5822370293740433,
+    "discounted_return": 0.8130617680340659
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g43_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.988843688336866,
+    "discounted_return": -0.28942193787970294
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g43_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.104504454280008,
+    "discounted_return": -16.472264854293076
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g44_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.360537309198477,
+    "discounted_return": -0.6573795018832481
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g44_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.073802567481635,
+    "discounted_return": -0.6760818127001476
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g44_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.76880816600132,
+    "discounted_return": -12.595909033271045
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g45_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.03920905793778,
+    "discounted_return": 18.965950640468794
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g45_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.8953622650559616,
+    "discounted_return": -0.39094096567916714
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g45_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.975736246186415,
+    "discounted_return": -19.77481009830464
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g46_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.158332313633731,
+    "discounted_return": -1.143989237030545
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g46_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -7.407448598292325,
+    "discounted_return": -1.8668335018967541
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g46_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -3.9751671916233975,
+    "discounted_return": -1.2185509177802558
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g47_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.540641345571181,
+    "discounted_return": -1.0272573959860976
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g47_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.5614884793223665,
+    "discounted_return": -0.8775044975264981
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g47_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.9852556192729,
+    "discounted_return": -19.9852556192729
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g48_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.027048212472923,
+    "discounted_return": 19.13493626696645
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g48_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.815048187579757,
+    "discounted_return": -0.3003111224639219
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g48_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.900977634318927,
+    "discounted_return": -19.900977634318927
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g49_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.4915042622498933,
+    "discounted_return": 0.3728235419195438
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g49_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -8.719591850647868,
+    "discounted_return": -2.519354780998662
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g49_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -18.59515842551946,
+    "discounted_return": -16.934538094292876
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g50_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.5029412535008495,
+    "discounted_return": 0.35685679328883
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g50_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.98118074146837,
+    "discounted_return": 21.13446097710595
+  },
+  {
+    "checkpoint": 50000,
+    "task_id": "g50_C",
+    "scenario": "C",
+    "status": "collision",
+    "return": -19.404245996516444,
+    "discounted_return": -18.43699389607979
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g01_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.981291947338871,
+    "discounted_return": -0.287538451775351
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g01_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.23374551925424,
+    "discounted_return": 18.092220108696786
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g01_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.51781518151163,
+    "discounted_return": -3.4844994068647175
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g02_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.350000379816177,
+    "discounted_return": -0.6837629384021947
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g02_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.13486505377656,
+    "discounted_return": 12.67305592647179
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g02_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.327089903373098,
+    "discounted_return": -3.3018215961000505
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g03_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.5778598824687764,
+    "discounted_return": 0.04233575397611977
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g03_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.116515720245943,
+    "discounted_return": 18.09492455780392
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g03_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.234479086496761,
+    "discounted_return": -3.1700125654080775
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g04_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.275417246120973,
+    "discounted_return": 18.845595823875133
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g04_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.53354326318695,
+    "discounted_return": -1.7641701093173892
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g04_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.99548210415043,
+    "discounted_return": -2.5876507175877186
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g05_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -2.5993028932616213,
+    "discounted_return": 1.1993667790333047
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g05_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.170924141837963,
+    "discounted_return": 0.7737201916476362
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g05_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.134864769802871,
+    "discounted_return": -2.9102831253896593
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g06_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.002302663487268,
+    "discounted_return": 0.7074755966101034
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g06_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.280438625702118,
+    "discounted_return": 19.282692182397827
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g06_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.39495890825018,
+    "discounted_return": -3.2019349714791048
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g07_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.168064833865376,
+    "discounted_return": 20.008200208383077
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g07_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.107040548026444,
+    "discounted_return": -2.11690646060409
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g07_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.638320381952402,
+    "discounted_return": -2.715566456288114
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g08_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.726707033230947,
+    "discounted_return": -1.758948762924268
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g08_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.3391716135793565,
+    "discounted_return": -2.1739498382224567
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g08_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.133035332461903,
+    "discounted_return": -3.0569368660946052
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g09_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.69649774452573,
+    "discounted_return": 20.09504880539695
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g09_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.669540584944258,
+    "discounted_return": -1.7837589526016413
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g09_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.998291891794081,
+    "discounted_return": -3.8892722518498664
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g10_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.8411672046684373,
+    "discounted_return": -0.22343952119956212
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g10_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.17397723983315,
+    "discounted_return": 17.66034516356976
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g10_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.170109442003926,
+    "discounted_return": -3.1377156271804765
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g11_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.2426068990442176,
+    "discounted_return": 0.46414629885948533
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g11_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.89835498324794,
+    "discounted_return": 18.921295329868787
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g11_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.145318505234367,
+    "discounted_return": -3.1214690116139816
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g12_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.865571684417514,
+    "discounted_return": 19.884757915053736
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g12_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.304582816221749,
+    "discounted_return": -1.3332424467491693
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g12_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.530454973477691,
+    "discounted_return": -3.5027040008729013
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g13_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.1256641234840057,
+    "discounted_return": 0.7282122140514142
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g13_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.263582809746666,
+    "discounted_return": 21.40675469775249
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g13_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.312274972551736,
+    "discounted_return": -3.0080368812379974
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g14_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.440499763149155,
+    "discounted_return": -0.7377381444521524
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g14_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.778440740123933,
+    "discounted_return": 17.811784968449984
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g14_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.619358998651034,
+    "discounted_return": -3.590671257955232
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g15_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.3216679499930954,
+    "discounted_return": -0.24898157577252
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g15_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.8276289769866185,
+    "discounted_return": -0.6541968574704445
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g15_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.837064573517955,
+    "discounted_return": -2.8258145908242356
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g16_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.563015887289331,
+    "discounted_return": -0.6754901518643762
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g16_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.630951917005863,
+    "discounted_return": 18.366371512623534
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g16_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.802063211911596,
+    "discounted_return": -3.751978059973474
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g17_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.954579912265591,
+    "discounted_return": -0.8232809442003308
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g17_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.428503292630952,
+    "discounted_return": -2.232828012173755
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g17_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.229507681549198,
+    "discounted_return": -3.11135985155137
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g18_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.536186599353502,
+    "discounted_return": -0.6425805127799045
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g18_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.293875108725064,
+    "discounted_return": 0.6176215684780706
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g18_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.100153184753622,
+    "discounted_return": -3.0719641925433496
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g19_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.4750413601337593,
+    "discounted_return": 0.2235936447832274
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g19_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.806285546364837,
+    "discounted_return": 18.319516932093784
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g19_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.268960477885999,
+    "discounted_return": -3.2437456407524303
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g20_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.3070646858664072,
+    "discounted_return": 0.39483942142797623
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g20_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.892521877013323,
+    "discounted_return": 18.74149875624103
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g20_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.2044209680041815,
+    "discounted_return": -3.1797605503249766
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g21_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.636100945344849,
+    "discounted_return": -1.562904829562731
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g21_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.23369793031437,
+    "discounted_return": 13.376353197788424
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g21_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.369579176663113,
+    "discounted_return": -3.3405954305492034
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g22_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -7.442040313913299,
+    "discounted_return": -1.8886032787460538
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g22_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.8667810681363335,
+    "discounted_return": -2.0406573164506576
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g22_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.149766188435603,
+    "discounted_return": -2.230772467181688
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g23_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.83252077578461,
+    "discounted_return": 20.618531601315755
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g23_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.415347962235414,
+    "discounted_return": -2.225457422999542
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g23_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.800804159622458,
+    "discounted_return": -2.8299028108189366
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g24_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -7.082596062743478,
+    "discounted_return": -1.8231241001432474
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g24_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.721255842983616,
+    "discounted_return": -1.8624504468045502
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g24_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.088091497184236,
+    "discounted_return": -2.643929243619804
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g25_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.18314452005078,
+    "discounted_return": -1.0863216715751967
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g25_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.288739200186775,
+    "discounted_return": -1.266359749999658
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g25_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.099508612391141,
+    "discounted_return": -3.1524393932136787
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g26_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.316167688196646,
+    "discounted_return": 17.894149979838804
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g26_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3836170966059393,
+    "discounted_return": 0.5759979777861843
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g26_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.053466534106012,
+    "discounted_return": -2.819926265399819
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g27_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.598911630034007,
+    "discounted_return": -0.7806088476560071
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g27_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.982066077300697,
+    "discounted_return": 16.84826580547574
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g27_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.184326572592947,
+    "discounted_return": -3.16096665713276
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g28_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.822952136805588,
+    "discounted_return": -0.6548203965186666
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g28_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.443060396696237,
+    "discounted_return": -2.247422135246166
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g28_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.051276237972039,
+    "discounted_return": -2.9605744933758102
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g29_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.1442318188492893,
+    "discounted_return": 0.5308673855856982
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g29_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.017699385859821,
+    "discounted_return": 0.8081693587268355
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g29_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.288026320401755,
+    "discounted_return": -3.122190551095964
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g30_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.552462981781404,
+    "discounted_return": -1.3865359744698376
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g30_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.175387799868062,
+    "discounted_return": 13.22706322212374
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g30_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.428873954926049,
+    "discounted_return": -3.396593332451891
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g31_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.451114437855877,
+    "discounted_return": -2.264964478410103
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g31_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.761839378543407,
+    "discounted_return": 15.818269098354715
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g31_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.916981464283246,
+    "discounted_return": -3.1070451995715658
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g32_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.2012861700109605,
+    "discounted_return": -1.1053875738826942
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g32_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.345451499699103,
+    "discounted_return": -1.363060123797149
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g32_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.156666849777471,
+    "discounted_return": -3.2229511522486245
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g33_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.278400698148253,
+    "discounted_return": 17.4169091888705
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g33_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3414190893247904,
+    "discounted_return": 0.6048022800535677
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g33_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.12060697386981,
+    "discounted_return": -2.9021408774075472
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g34_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.478907507187661,
+    "discounted_return": -0.6085954748774607
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g34_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.12800837815627,
+    "discounted_return": -2.2397130017824893
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g34_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.350795804496925,
+    "discounted_return": -2.469765722037361
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g35_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.165364528781614,
+    "discounted_return": -0.49864588542206145
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g35_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.162911384850023,
+    "discounted_return": 17.67392386026862
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g35_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.509223649846343,
+    "discounted_return": -3.4752816135691473
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g36_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.884360868060776,
+    "discounted_return": -0.2599147382452569
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g36_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.1853467723032,
+    "discounted_return": 17.67072405463555
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g36_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.2143507118969,
+    "discounted_return": -3.1658482221566406
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g37_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.33451199492706,
+    "discounted_return": 20.144380970273442
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g37_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.803959581840839,
+    "discounted_return": -0.8138297097427796
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g37_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.134450945314008,
+    "discounted_return": -3.12609400150675
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g38_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.185313562336102,
+    "discounted_return": -0.07903533344616043
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g38_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.357399170507919,
+    "discounted_return": -2.303652528044191
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g38_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.504351663549121,
+    "discounted_return": -2.6497140713354645
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g39_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.901190500887381,
+    "discounted_return": -1.4246127135050375
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g39_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.154064395851889,
+    "discounted_return": -2.0372850180689746
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g39_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.227912284264179,
+    "discounted_return": -3.070709888181446
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g40_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.8178942984746027,
+    "discounted_return": 0.19592736485755124
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g40_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.12479026561881,
+    "discounted_return": 21.467277799470683
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g40_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.886191991851275,
+    "discounted_return": -2.7460748612295207
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g41_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.983992734625488,
+    "discounted_return": 18.390793411169156
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g41_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.609191250547765,
+    "discounted_return": -0.7003504157106597
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g41_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.505040258315173,
+    "discounted_return": -3.4800947215309663
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g42_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.973269364042268,
+    "discounted_return": 0.13837304937741912
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g42_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.272504465751435,
+    "discounted_return": -2.311608270164937
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g42_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.272326036593946,
+    "discounted_return": -2.4881298469807716
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g43_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -2.95022379759948,
+    "discounted_return": 0.9239377280325389
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g43_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.931047596040945,
+    "discounted_return": 0.21031162173329898
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g43_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.813087504007275,
+    "discounted_return": -2.4354282416633715
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g44_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.736990418270184,
+    "discounted_return": -0.8422071235532923
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g44_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.5129457879529085,
+    "discounted_return": 0.46472175894938395
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g44_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.036673688064283,
+    "discounted_return": -3.0160361057534746
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g45_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.064870665156242,
+    "discounted_return": 19.014240899745808
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g45_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.782779086038174,
+    "discounted_return": -1.8634150865766808
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g45_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.964765115545568,
+    "discounted_return": -2.6532981694128175
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g46_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.193113452025412,
+    "discounted_return": -0.5362772372843347
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g46_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.16279226803755,
+    "discounted_return": 11.805146493545523
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g46_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -7.360327864798439,
+    "discounted_return": -3.333415934806899
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g47_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.00667901786967,
+    "discounted_return": -1.449325115741578
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g47_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -6.066651234804287,
+    "discounted_return": -1.9965953970684442
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g47_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.940010085884653,
+    "discounted_return": -2.9534669166315206
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g48_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.004555760822154,
+    "discounted_return": 19.307818147276592
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g48_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.886894286799617,
+    "discounted_return": -1.9284236280638465
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g48_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.606598004181032,
+    "discounted_return": -2.5957869227181547
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g49_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9369036727739513,
+    "discounted_return": 0.09924527326225796
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g49_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.736489212276758,
+    "discounted_return": -0.9888942747130689
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g49_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.902298309553389,
+    "discounted_return": -2.688115352734286
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g50_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.99695086684626,
+    "discounted_return": 0.028473766523350985
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g50_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.998107345279607,
+    "discounted_return": 21.347730653209798
+  },
+  {
+    "checkpoint": 100000,
+    "task_id": "g50_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.86625539957088,
+    "discounted_return": -2.8422673395571083
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g01_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.321004691533433,
+    "discounted_return": -0.48274345274841934
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g01_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.826288524670444,
+    "discounted_return": 0.001814367951540996
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g01_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.911710184916746,
+    "discounted_return": -1.9945177442700612
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g02_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.0257871562387,
+    "discounted_return": -2.0678528234178426
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g02_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.43889702959183,
+    "discounted_return": 16.722754494653802
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g02_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.76361784880641,
+    "discounted_return": -1.8494040686152442
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g03_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.457438668886559,
+    "discounted_return": -0.26834317602856794
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g03_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.549500359435747,
+    "discounted_return": 11.811536157499118
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g03_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.58537965057964,
+    "discounted_return": -1.6832440952290815
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g04_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.3776287885206817,
+    "discounted_return": 0.41769158125404515
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g04_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -5.54133063991874,
+    "discounted_return": -2.067212912930968
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g04_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.523693298249084,
+    "discounted_return": -2.546161233208885
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g05_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.7152017870061265,
+    "discounted_return": -0.7201406457190146
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g05_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.66991767387406,
+    "discounted_return": 21.052204714979624
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g05_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.280482725383472,
+    "discounted_return": -2.225490744443043
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g06_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.511368578841702,
+    "discounted_return": -0.5332104883401121
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g06_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.842122143848561,
+    "discounted_return": 0.9768239081171335
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g06_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.033101274446476,
+    "discounted_return": -2.0390184423063613
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g07_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.3900098700111,
+    "discounted_return": 0.499393648857263
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g07_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.428888004979088,
+    "discounted_return": 0.48213124472748814
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g07_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.790630142854272,
+    "discounted_return": -1.9225244623706674
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g08_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.077667941259356,
+    "discounted_return": -0.14369962088227228
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g08_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.4978056261590975,
+    "discounted_return": -0.4975491896688371
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g08_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.512346303468995,
+    "discounted_return": -2.51788347438403
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g09_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.199328604356074,
+    "discounted_return": -1.570920759329333
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g09_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.669473867300947,
+    "discounted_return": 20.46761028502
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g09_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.40888634581909,
+    "discounted_return": -2.4171008576409205
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g10_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.217658821564826,
+    "discounted_return": -0.0013260978403555335
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g10_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.836286986262582,
+    "discounted_return": 13.82195649781129
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g10_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.6201452650095955,
+    "discounted_return": -1.7161753736563494
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g11_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.4069038828173746,
+    "discounted_return": -1.040979577908882
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g11_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3341890513001964,
+    "discounted_return": 0.5444127656144389
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g11_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.869509634490043,
+    "discounted_return": -1.9359353846536236
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g12_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.794693541995058,
+    "discounted_return": -1.2930339642730986
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g12_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.85408611880685,
+    "discounted_return": 20.08441405822417
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g12_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.365068705605701,
+    "discounted_return": -2.3769622275495457
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g13_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.306079594333906,
+    "discounted_return": -1.4813670382255573
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g13_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.1401229135320885,
+    "discounted_return": 0.7691878495001121
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g13_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.579936572459179,
+    "discounted_return": -2.538251598648313
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g14_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.641080687744463,
+    "discounted_return": -1.6498050144076604
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g14_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.781013340624458,
+    "discounted_return": 17.839281475291024
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g14_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.335628374263056,
+    "discounted_return": -2.390443131438992
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g15_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.23556842675983,
+    "discounted_return": 13.302715837445101
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g15_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.6522152286990144,
+    "discounted_return": 0.3286439660359144
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g15_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.355455651649365,
+    "discounted_return": -2.354029011485631
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g16_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.242222952243067,
+    "discounted_return": -1.7965042744875137
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g16_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.58204098050306,
+    "discounted_return": 17.852805739125948
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g16_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.501873941452284,
+    "discounted_return": -2.5260372255215646
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g17_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.157987467560001,
+    "discounted_return": -0.23906038554825026
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g17_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.4202155700627594,
+    "discounted_return": -0.4293396051629459
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g17_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.622706836280693,
+    "discounted_return": -2.6265186525973787
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g18_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.7782299478491925,
+    "discounted_return": 0.3299331661602152
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g18_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.111292775834137,
+    "discounted_return": 15.066706853734614
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g18_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.64526765225663,
+    "discounted_return": -1.7271041807810692
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g19_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.2589819151598505,
+    "discounted_return": -0.8284466493426412
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g19_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.372936768221102,
+    "discounted_return": 0.4749906273771909
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g19_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.83707512998972,
+    "discounted_return": -1.9088988654430372
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g20_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.498438128229838,
+    "discounted_return": -1.0069847820617568
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g20_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.307572859532168,
+    "discounted_return": 0.5487808068709998
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g20_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.890306247549226,
+    "discounted_return": -1.954063801141491
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g21_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.8402453619252475,
+    "discounted_return": -1.9478137498613215
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g21_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.435365240574978,
+    "discounted_return": 16.25477525713568
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g21_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.88140950124628,
+    "discounted_return": -1.9657141538494898
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g22_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -2.72125713564469,
+    "discounted_return": 1.0365603940483152
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g22_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.0522655612295795,
+    "discounted_return": 0.7726086608562344
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g22_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.436598742578661,
+    "discounted_return": -1.6704008373710066
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g23_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.45328002163228,
+    "discounted_return": 14.878665964740748
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g23_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.778683173273056,
+    "discounted_return": 0.18109481810634587
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g23_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.140533953994832,
+    "discounted_return": -2.158602161082934
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g24_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.346700382983828,
+    "discounted_return": 0.48232988858228665
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g24_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.805862065070367,
+    "discounted_return": 0.047578667062380564
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g24_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.565558272395933,
+    "discounted_return": -2.5830996725550475
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g25_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.651600057531255,
+    "discounted_return": -0.6732826661261875
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g25_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.684665577885916,
+    "discounted_return": -0.6971627467882514
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g25_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.556746398871478,
+    "discounted_return": -2.562983936689947
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g26_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.952500641016683,
+    "discounted_return": -0.8999962981566111
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g26_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.496123001507883,
+    "discounted_return": 20.7185256211308
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g26_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.160790165006384,
+    "discounted_return": -2.112406917745652
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g27_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.112890382419296,
+    "discounted_return": 0.5588310411510935
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g27_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.750776182191437,
+    "discounted_return": 13.921451543841204
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g27_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.684608391846255,
+    "discounted_return": -1.7835549760730864
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g28_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9430194346365823,
+    "discounted_return": -0.02623652018262157
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g28_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.963241810729361,
+    "discounted_return": 0.0020865247521701935
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g28_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.287895841388561,
+    "discounted_return": -2.3061740381568674
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g29_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.211672338602722,
+    "discounted_return": -0.30620754133362915
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g29_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.7596948617403805,
+    "discounted_return": 1.0115837651340325
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g29_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.61743200742716,
+    "discounted_return": -1.6788178747400146
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g30_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.059991414007884,
+    "discounted_return": -2.081341282379344
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g30_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.405863721777155,
+    "discounted_return": 16.524600210763374
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g30_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.917727184124426,
+    "discounted_return": -2.003345695094267
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g31_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -7.953589891993256,
+    "discounted_return": -2.449665737740328
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g31_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.747581365465003,
+    "discounted_return": 15.858540956651142
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g31_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.4955190087232255,
+    "discounted_return": -2.5244348012466595
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g32_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.680477419279957,
+    "discounted_return": -0.703591877543444
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g32_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.745203757154974,
+    "discounted_return": -0.7541470999704265
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g32_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.630175584810573,
+    "discounted_return": -2.6342123903583703
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g33_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.896850212024847,
+    "discounted_return": -0.8545379450937759
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g33_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.495428200015645,
+    "discounted_return": 20.713861283131674
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g33_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.222522248335982,
+    "discounted_return": -2.169613437321506
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g34_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.5999969584095193,
+    "discounted_return": 0.4082713396309783
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g34_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.53053556803446,
+    "discounted_return": 19.20948200872803
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g34_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.379744420212606,
+    "discounted_return": -1.5305554597182722
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g35_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.80534417376421,
+    "discounted_return": -1.8671654527243493
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g35_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.166444057410118,
+    "discounted_return": 18.025049599486753
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g35_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.974639528972808,
+    "discounted_return": -2.0544002846510763
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g36_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.123490040828825,
+    "discounted_return": 0.0726427826876408
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g36_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.970177780955858,
+    "discounted_return": 14.845705952662884
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g36_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.682974845389215,
+    "discounted_return": -1.7719860418539917
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g37_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.478793291081573,
+    "discounted_return": -0.8669983920169102
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g37_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.340538484633086,
+    "discounted_return": 20.734265812783235
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g37_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.138999335997786,
+    "discounted_return": -2.152652682492217
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g38_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.50826002267883,
+    "discounted_return": 21.832947873273817
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g38_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.8421172331220976,
+    "discounted_return": 1.0124590298291056
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g38_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.809692287947851,
+    "discounted_return": -1.8641244699257122
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g39_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.157208368860814,
+    "discounted_return": -0.308831842022139
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g39_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.730765743027499,
+    "discounted_return": -0.8121614537475111
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g39_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.537539243203227,
+    "discounted_return": -2.537107533867795
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g40_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 23.021716714380307,
+    "discounted_return": 20.104697435786367
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g40_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.15323803702278,
+    "discounted_return": 21.687684151210767
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g40_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.345294874642441,
+    "discounted_return": -2.3343234169436933
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g41_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.975030821217176,
+    "discounted_return": -1.5181060735193872
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g41_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.238604132372113,
+    "discounted_return": -0.26053113075894463
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g41_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.445893272358177,
+    "discounted_return": -2.463035852061713
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g42_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.023637882119416,
+    "discounted_return": 0.03419814616814554
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g42_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.5258528380024834,
+    "discounted_return": 1.2630410222713997
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g42_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.479207745031715,
+    "discounted_return": -1.6152434524203805
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g43_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -7.01345820896828,
+    "discounted_return": -2.126414161519778
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g43_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.684005804415682,
+    "discounted_return": 1.1170433959237644
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g43_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.511114703453444,
+    "discounted_return": -1.5683224992205773
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g44_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.209976106556625,
+    "discounted_return": 0.6001027353654949
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g44_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.998802446565854,
+    "discounted_return": 14.365286891908845
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g44_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.50826885805987,
+    "discounted_return": -1.6114534004145353
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g45_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.473969295637456,
+    "discounted_return": 0.3485285554488782
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g45_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.083930622992245,
+    "discounted_return": -0.17959772268948737
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g45_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.5445864928238935,
+    "discounted_return": -2.5531110245428934
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g46_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.166081032774534,
+    "discounted_return": -0.10245773124529012
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g46_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.492032935762143,
+    "discounted_return": 16.078790439234925
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g46_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.802459781335943,
+    "discounted_return": -1.8891769607078734
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g47_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9492109613447814,
+    "discounted_return": -0.10363920256077463
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g47_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.681909156669968,
+    "discounted_return": -0.6776246092760004
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g47_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.490109932249266,
+    "discounted_return": -2.4960747812160085
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g48_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.540035140257021,
+    "discounted_return": 0.3175444524637825
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g48_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.022168703892794,
+    "discounted_return": -0.08922294477694881
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g48_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.27853659592122,
+    "discounted_return": -2.3397928060463338
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g49_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.172175587684281,
+    "discounted_return": -0.1438309686064514
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g49_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.3192799026989186,
+    "discounted_return": 0.5990227435926423
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g49_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.947589393683659,
+    "discounted_return": -1.9605573803349376
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g50_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.92526666772716,
+    "discounted_return": 20.365090529826098
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g50_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.002725258993273,
+    "discounted_return": 21.546983672150297
+  },
+  {
+    "checkpoint": 200000,
+    "task_id": "g50_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.509484755569215,
+    "discounted_return": -2.5061433042446044
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g01_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.995919029421389,
+    "discounted_return": -1.4478815228665731
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g01_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.257959677428644,
+    "discounted_return": 18.811251270636145
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g01_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.107491864184384,
+    "discounted_return": -2.131489928348441
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g02_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.502656392868416,
+    "discounted_return": -1.167850133398527
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g02_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.563343480659338,
+    "discounted_return": 18.540848167457778
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g02_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.103121059626939,
+    "discounted_return": -2.149939304606908
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g03_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.035909164605024,
+    "discounted_return": -0.5639491160536346
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g03_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.032553254048626,
+    "discounted_return": 17.611632808166192
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g03_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.113347455432928,
+    "discounted_return": -2.133838258041566
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g04_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.3022349848330554,
+    "discounted_return": 0.4992917728638595
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g04_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.496380771420418,
+    "discounted_return": 0.20784055358830988
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g04_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.904452208633918,
+    "discounted_return": -2.850054266461237
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g05_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.737145624196821,
+    "discounted_return": -0.691347692612559
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g05_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.66624395071212,
+    "discounted_return": 21.22240277558132
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g05_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.693449717124867,
+    "discounted_return": -1.727869045358307
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g06_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.150176945767661,
+    "discounted_return": -0.5598058472571307
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g06_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.28453494294835,
+    "discounted_return": 19.460149484404702
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g06_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.974769929225086,
+    "discounted_return": -2.002786194741926
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g07_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.194615362970869,
+    "discounted_return": 0.6509427222427817
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g07_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.07070907469392,
+    "discounted_return": 18.282675028493063
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g07_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.630930300104842,
+    "discounted_return": -2.638131285494753
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g08_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 22.479084777120054,
+    "discounted_return": 19.1760294409748
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g08_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.594066947060934,
+    "discounted_return": -0.49414266002745855
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g08_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.446232997738849,
+    "discounted_return": -2.44886624039527
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g09_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.4587194634953375,
+    "discounted_return": -1.367305387060965
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g09_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.676845256015852,
+    "discounted_return": 20.279718233297825
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g09_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.267490786344857,
+    "discounted_return": -2.28724405649308
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g10_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.011802672392328,
+    "discounted_return": -0.5571948036221945
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g10_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.8431953806346537,
+    "discounted_return": 0.8823121308201125
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g10_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.167887039848465,
+    "discounted_return": -2.1893295786565585
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g11_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.346950356844824,
+    "discounted_return": -0.663615416079082
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g11_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.871725588380748,
+    "discounted_return": 19.248031330144126
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g11_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.953647502119456,
+    "discounted_return": -1.9777837621556578
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g12_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.508537003641639,
+    "discounted_return": -1.2023035439816647
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g12_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.849396434342832,
+    "discounted_return": 20.077060690834692
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g12_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.172251966740243,
+    "discounted_return": -2.1900315681922162
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g13_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.066079247048154,
+    "discounted_return": -0.8176854307791436
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g13_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.253547692704228,
+    "discounted_return": 21.591850450146385
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g13_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.7603480872950925,
+    "discounted_return": -1.8106202289789812
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g14_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.629484848048536,
+    "discounted_return": -1.8919908547564983
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g14_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.789352838810675,
+    "discounted_return": 18.19038947424157
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g14_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.131278719265602,
+    "discounted_return": -2.1576872089925105
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g15_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.297153769172652,
+    "discounted_return": -0.96917976494739
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g15_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.845248070910213,
+    "discounted_return": 21.590402332470536
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g15_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.660964483919622,
+    "discounted_return": -1.714689012663452
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g16_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.163645210757837,
+    "discounted_return": -1.8337587623362912
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g16_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.61597963847625,
+    "discounted_return": 18.38673023253329
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g16_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.172640574667816,
+    "discounted_return": -2.1883025256548527
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g17_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.0822077808805455,
+    "discounted_return": -0.0989439426763048
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g17_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.737217347490471,
+    "discounted_return": -0.5525919538699968
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g17_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.430965699134942,
+    "discounted_return": -2.429709766270432
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g18_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.8961140188938748,
+    "discounted_return": -0.47019121343737247
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g18_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.23123233163021,
+    "discounted_return": 16.72738108651087
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g18_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.104100628262,
+    "discounted_return": -2.1551265899923906
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g19_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.328839332008837,
+    "discounted_return": -0.6799617753541838
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g19_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.84431661935081,
+    "discounted_return": 19.360181316271508
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g19_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.074082283201495,
+    "discounted_return": -2.0991362139984284
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g20_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.2939711094532615,
+    "discounted_return": -0.638246817845079
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g20_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.883718620619696,
+    "discounted_return": 19.082958070599293
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g20_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.035378014956271,
+    "discounted_return": -2.0592635847948917
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g21_A",
+    "scenario": "A",
+    "status": "success",
+    "return": 21.97572005650063,
+    "discounted_return": 10.838826061183251
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g21_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.55250244781429,
+    "discounted_return": 18.183086979306545
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g21_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.12747520408033,
+    "discounted_return": -2.1865012453675248
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g22_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.067442615601493,
+    "discounted_return": 0.8830376510320841
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g22_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.717823164014626,
+    "discounted_return": 0.9792488879109229
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g22_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.876628366391879,
+    "discounted_return": -2.8696709334944597
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g23_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.867483735555426,
+    "discounted_return": 0.10341566108660438
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g23_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.048053551537774,
+    "discounted_return": -0.050440533472256854
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g23_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.980548391859883,
+    "discounted_return": -1.9880616037356464
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g24_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.267927652576956,
+    "discounted_return": 0.5515769458890603
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g24_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.370045796029883,
+    "discounted_return": 0.37344762188636427
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g24_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.889167377835069,
+    "discounted_return": -2.8525177939669275
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g25_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.360201756341545,
+    "discounted_return": -0.44125222807163955
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g25_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.547127319326267,
+    "discounted_return": -0.5509000659824983
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g25_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.39577964154401,
+    "discounted_return": -2.4312240870353463
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g26_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.780165306061892,
+    "discounted_return": -0.7069821379016374
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g26_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.525207625270152,
+    "discounted_return": 21.096385692041146
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g26_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.390292030873765,
+    "discounted_return": -1.440814648926066
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g27_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.434671845783099,
+    "discounted_return": -0.7029702355168117
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g27_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.91298756535449,
+    "discounted_return": 16.042172701271593
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g27_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.9705938726695695,
+    "discounted_return": -2.097692028198537
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g28_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.7779569030697377,
+    "discounted_return": 0.19843985300087574
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g28_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.106900363736004,
+    "discounted_return": -0.10009887056939903
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g28_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.164674621689463,
+    "discounted_return": -2.1728897933209765
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g29_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9521692031359055,
+    "discounted_return": -0.5162552724976847
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g29_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.246713991553637,
+    "discounted_return": 18.29399995463706
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g29_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.884741119732976,
+    "discounted_return": -1.9192603352704594
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g30_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.696219782796171,
+    "discounted_return": -1.2042828124819287
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g30_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.51051606333639,
+    "discounted_return": 18.315314080593136
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g30_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.193518788384949,
+    "discounted_return": -2.2398733981665853
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g31_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.937851298058851,
+    "discounted_return": -2.194001445713752
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g31_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 21.70543968419587,
+    "discounted_return": 15.44083179665716
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g31_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.180015269652877,
+    "discounted_return": -2.2482131052254966
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g32_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.434394798580764,
+    "discounted_return": -0.44336270944395073
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g32_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.5698390000717515,
+    "discounted_return": -0.5706105882337223
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g32_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.556596350423275,
+    "discounted_return": -2.5411987144829458
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g33_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.739126415052503,
+    "discounted_return": -0.7098603095595584
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g33_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.53938210972606,
+    "discounted_return": 20.926494879200458
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g33_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.543407416011727,
+    "discounted_return": -1.5851108368941604
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g34_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.4141106469577194,
+    "discounted_return": 0.6205763487472165
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g34_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.731340052373049,
+    "discounted_return": 1.17078604557481
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g34_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.44604096460462,
+    "discounted_return": -2.4561933207257933
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g35_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -6.395704380958333,
+    "discounted_return": -1.6922514259954347
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g35_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.177242276026064,
+    "discounted_return": 18.54598854543802
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g35_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.1080940984919785,
+    "discounted_return": -2.144776866608656
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g36_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.9661889803696324,
+    "discounted_return": -0.5447294921175265
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g36_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.836903735120576,
+    "discounted_return": 0.8994016083880181
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g36_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.196231867891633,
+    "discounted_return": -2.222383908748074
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g37_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.437177250722214,
+    "discounted_return": -1.062812323441028
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g37_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.36771642485764,
+    "discounted_return": 20.760674686503446
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g37_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.8705280017517385,
+    "discounted_return": -1.890833013174119
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g38_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.750308348894438,
+    "discounted_return": 0.3854011159602553
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g38_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.8788423588830288,
+    "discounted_return": 0.8213544739269216
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g38_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.195844899756392,
+    "discounted_return": -2.1894045436051384
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g39_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.1304680658590245,
+    "discounted_return": -0.2820118560144478
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g39_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.308524717326126,
+    "discounted_return": -0.8336601583244393
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g39_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.64205384356975,
+    "discounted_return": -2.6057310891296597
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g40_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.2988429654600555,
+    "discounted_return": -0.892242747842316
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g40_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.1340824241595,
+    "discounted_return": 21.67131907958732
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g40_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.501234585034082,
+    "discounted_return": -1.5665026367740311
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g41_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.855664214315271,
+    "discounted_return": -1.2616188256495422
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g41_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.025321224046948,
+    "discounted_return": 19.329577013020266
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g41_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.130068048693772,
+    "discounted_return": -2.1473678257839177
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g42_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.6841393288637585,
+    "discounted_return": 0.5085766679976929
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g42_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -2.719290616501859,
+    "discounted_return": 1.1269957697926551
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g42_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.298760750451789,
+    "discounted_return": -2.313580252089178
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g43_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.032553662236484,
+    "discounted_return": -0.19098959053716857
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g43_B",
+    "scenario": "B",
+    "status": "collision",
+    "return": -23.150528332005706,
+    "discounted_return": -10.312265425523673
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g43_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.108418362158437,
+    "discounted_return": -1.1728077613549792
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g44_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.055765637104042,
+    "discounted_return": -0.5383728987259292
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g44_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 23.160850595073207,
+    "discounted_return": 16.516262960976697
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g44_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.670647237955589,
+    "discounted_return": -1.9317237530044942
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g45_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.707555133135382,
+    "discounted_return": 0.18408898148285413
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g45_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.644261142450686,
+    "discounted_return": 0.13608779539009142
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g45_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.824229882326861,
+    "discounted_return": -2.7604200822206644
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g46_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.118722371431036,
+    "discounted_return": -0.9904838194168151
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g46_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.684480784710797,
+    "discounted_return": 18.65567901867912
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g46_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.156930914261637,
+    "discounted_return": -2.2032755971677105
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g47_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.057333341754764,
+    "discounted_return": -0.18747068921099563
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g47_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.656001130231923,
+    "discounted_return": -0.7104896849184112
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g47_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.722599949258518,
+    "discounted_return": -2.7004265110794003
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g48_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -3.7752365180176506,
+    "discounted_return": 0.13920513637524468
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g48_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -3.614244531634662,
+    "discounted_return": 0.17828812853973242
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g48_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -6.612876897813091,
+    "discounted_return": -2.633347209524503
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g49_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -4.2206377234559245,
+    "discounted_return": -0.38409943143057657
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g49_B",
+    "scenario": "B",
+    "status": "timeout",
+    "return": -4.443668245442338,
+    "discounted_return": -0.14904566811837783
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g49_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.40722005925148,
+    "discounted_return": -1.4762474952133577
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g50_A",
+    "scenario": "A",
+    "status": "timeout",
+    "return": -5.347851566171969,
+    "discounted_return": -0.9980461307433877
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g50_B",
+    "scenario": "B",
+    "status": "success",
+    "return": 22.976947833462862,
+    "discounted_return": 21.524543114398544
+  },
+  {
+    "checkpoint": 300000,
+    "task_id": "g50_C",
+    "scenario": "C",
+    "status": "timeout",
+    "return": -5.7794806436373545,
+    "discounted_return": -1.8328868318602294
+  }
+]

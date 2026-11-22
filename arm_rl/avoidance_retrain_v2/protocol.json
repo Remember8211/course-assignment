@@ -1,0 +1,105 @@
+{
+  "version": "avoidance_retrain_v2",
+  "observation_version": "full_circle_geometry_v2_21",
+  "obs_dim": 21,
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "steps_per_seed": 300000,
+  "checkpoint_interval": 10000,
+  "splits": {
+    "train": {
+      "groups": 1000,
+      "seed": 20261111,
+      "sha256": "84175437abd9fe6a4691dc2ab95f8361583efd32da84e00f2697e9860dad211b"
+    },
+    "validation": {
+      "groups": 50,
+      "seed": 20261112,
+      "sha256": "44e86a211d5229d82d53a1974030d075c097334bae37a581531133ca498d8781"
+    },
+    "test": {
+      "groups": 100,
+      "seed": 20261113,
+      "sha256": "bdfe6d7ebab6b67298d60a363c74729eda03ef2a429cc2830be7912d766af07e"
+    }
+  },
+  "tolerances": [
+    0.02,
+    0.08
+  ],
+  "max_steps": 120,
+  "action_scale": 0.05,
+  "collision_resolution": 0.001,
+  "refinement_resolution": 0.0005,
+  "device": "cpu",
+  "threads": 1,
+  "reward": {
+    "progress": 5.0,
+    "time": 0.01,
+    "action_squared": 0.001,
+    "safety": 0.1,
+    "safety_margin": 0.03,
+    "success": 20.0,
+    "collision": -20.0,
+    "timeout": -5.0
+  },
+  "sac": {
+    "hidden": 128,
+    "lr": 0.0003,
+    "gamma": 0.99,
+    "buffer": 100000,
+    "batch": 256,
+    "warmup": 1000,
+    "tau": 0.005,
+    "target_entropy": -3
+  },
+  "curriculum": [
+    {
+      "through_step": 50000,
+      "ABC": [
+        0.5,
+        0.5,
+        0
+      ]
+    },
+    {
+      "through_step": 100000,
+      "ABC": [
+        0.2,
+        0.3,
+        0.5
+      ]
+    },
+    {
+      "through_step": 300000,
+      "ABC": [
+        0.1,
+        0.2,
+        0.7
+      ]
+    }
+  ],
+  "selection": [
+    "max_validation_C_success_0.02",
+    "max_validation_B_success_0.02",
+    "min_validation_C_error",
+    "earlier_step"
+  ],
+  "runtime": {
+    "python": "3.11.9",
+    "numpy": "2.4.6"
+  },
+  "original_protected_hashes": {
+    "arm_rl\\env3link.py": "d6954705777e8de5539b2b0ef3f46ba17512f8dfd2acf337e5aec883225964ca",
+    "arm_rl\\sac.py": "c886553271a4aaa946ea822345cf777ece226ecf68f71720bc215700a1256fae",
+    "arm_rl\\train.py": "5398c104648260a800858ea6dbe3f1b9ead288cc3b6b2dfc043d9482641b8170",
+    "arm_rl\\runs\\sac_s0\\model.pt": "ab19a4a124ce237c8c758748507f9b7ac0436d8e7bd83831ae9bcc4cdd8b7337",
+    "arm_rl\\runs\\sac_s1\\model.pt": "afe5e4af63d1976a0ba917c3703536175abb8b3b2561d1e523b2fe275cddd5a0",
+    "paper\\论文_机械臂版_v3.docx": "1c25b48079f4e4a911717c7c051f1632af7a932d5264c7d1717fd102ce64f6f5",
+    "arm_rl\\avoidance_validation_20261107\\tasks.json": "dee9ba6c780f0aa73f8b44d0d97043bd90953b624006390b54d95fc4eebf5382",
+    "arm_rl\\avoidance_validation_20261107\\episodes.json": "83eb6e14f6e37c72843a4724d1b9122fad619b44eeb3c5259ee57804d892f794"
+  }
+}

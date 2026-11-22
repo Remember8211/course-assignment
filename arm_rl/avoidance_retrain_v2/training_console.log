@@ -1,0 +1,33 @@
+C:\Users\86137\Desktop\��ҵ�˹�������ҵ\arm_rl\sac.py:113: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:823.)
+  return {"q_loss": float(q_loss), "p_loss": float(p_loss),
+Seed 0, step 10000: val A/B/C=0.00/0.00/0.00, elapsed=93s
+Seed 0, step 20000: val A/B/C=0.00/0.00/0.00, elapsed=190s
+Seed 0, step 30000: val A/B/C=0.20/0.08/0.00, elapsed=280s
+Seed 0, step 40000: val A/B/C=0.10/0.00/0.00, elapsed=366s
+Seed 0, step 50000: val A/B/C=0.16/0.14/0.04, elapsed=452s
+Seed 0, step 60000: val A/B/C=0.06/0.04/0.00, elapsed=543s
+Seed 0, step 70000: val A/B/C=0.24/0.10/0.00, elapsed=655s
+Seed 0, step 80000: val A/B/C=0.20/0.24/0.00, elapsed=761s
+Seed 0, step 90000: val A/B/C=0.10/0.04/0.00, elapsed=859s
+Seed 0, step 100000: val A/B/C=0.22/0.40/0.00, elapsed=962s
+Seed 0, step 110000: val A/B/C=0.26/0.40/0.00, elapsed=1066s
+Seed 0, step 120000: val A/B/C=0.40/0.10/0.00, elapsed=1172s
+Seed 0, step 130000: val A/B/C=0.44/0.18/0.00, elapsed=1274s
+Seed 0, step 140000: val A/B/C=0.34/0.22/0.00, elapsed=1375s
+Seed 0, step 150000: val A/B/C=0.46/0.36/0.00, elapsed=1482s
+Seed 0, step 160000: val A/B/C=0.20/0.44/0.00, elapsed=1588s
+Seed 0, step 170000: val A/B/C=0.24/0.36/0.00, elapsed=1695s
+Seed 0, step 180000: val A/B/C=0.38/0.48/0.00, elapsed=1804s
+Seed 0, step 190000: val A/B/C=0.28/0.28/0.00, elapsed=1911s
+Seed 0, step 200000: val A/B/C=0.10/0.46/0.00, elapsed=2026s
+Seed 0, step 210000: val A/B/C=0.38/0.64/0.00, elapsed=2132s
+Seed 0, step 220000: val A/B/C=0.18/0.24/0.00, elapsed=2238s
+Seed 0, step 230000: val A/B/C=0.28/0.24/0.00, elapsed=2349s
+Seed 0, step 240000: val A/B/C=0.22/0.38/0.00, elapsed=2453s
+Seed 0, step 250000: val A/B/C=0.36/0.36/0.00, elapsed=2556s
+Seed 0, step 260000: val A/B/C=0.16/0.54/0.00, elapsed=2653s
+Seed 0, step 270000: val A/B/C=0.28/0.74/0.00, elapsed=2746s
+Seed 0, step 280000: val A/B/C=0.32/0.64/0.00, elapsed=2872s
+Seed 0, step 290000: val A/B/C=0.10/0.66/0.00, elapsed=2997s
+Seed 0, step 300000: val A/B/C=0.04/0.60/0.00, elapsed=3112s

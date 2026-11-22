@@ -1,0 +1,12 @@
+{
+  "algo": "sac",
+  "seed": 0,
+  "steps": 100000,
+  "cfg": {
+    "n_obstacles": 2,
+    "obstacle_radius": 0.08,
+    "include_obstacle_obs": false,
+    "sparse_reward": false
+  },
+  "tag": "sac_noobsfeat_s0"
+}

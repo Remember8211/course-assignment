@@ -1,0 +1,12 @@
+{
+  "identical_observation": true,
+  "early_reward": -0.01,
+  "late_reward": -5.01,
+  "early_terminated": false,
+  "late_terminated": false,
+  "early_truncated": false,
+  "late_truncated": true,
+  "remaining_time_present": false,
+  "replay_uses_terminated_only": true,
+  "finite_deadline_definition_mismatch": true
+}
